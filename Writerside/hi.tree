@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Axion"
+                  start-page="Axton.md">
+
+    <toc-element topic="Axhub.md">
+        <toc-element topic="Contratos.md"/>
+        <toc-element topic="Configuração-de-Operação.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Passo-a-Passo-Configuração-AxSync.md"/>
+    <toc-element topic="Axcross.md">
+        <toc-element topic="passo-a-passo-Configuração-AxCross.md"/>
+        <toc-element topic="Diagrama-de-caso-de-uso.md"/>
+    </toc-element>
+    <toc-element topic="AxManage.md">
+        <toc-element topic="passo-a-passo-Configuração-AxManager.md"/>
+    </toc-element>
+    <toc-element topic="Axton.md">
+        <toc-element topic="Passo-a-Passo.md"/>
+        <toc-element topic="Pesagem.md">
+        </toc-element>
+        <toc-element topic="Exportação.md"/>
+        <toc-element topic="BTN.md"/>
+    </toc-element>
+</instance-profile>
