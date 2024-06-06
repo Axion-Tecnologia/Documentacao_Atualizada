@@ -13,7 +13,7 @@ Este projeto é dedicado à documentação do projeto Axion. Utilizamos o [Write
 
 Aqui está a estrutura principal do repositório:
 
-```
+ ```bash
 .
 ├── .github/
 │   └── workflows/
@@ -72,7 +72,6 @@ Para mais detalhes, confira nosso [Guia de Contribuição](CONTRIBUTING.md).
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
 
 Feito com ❤️ por [Vinicius ](https://github.com/seu-usuario)
-```
+
