@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de um `README.md` bem estruturado e bonito para o seu projeto:
 
 ```markdown
 # 📚 Documentação Atualizada
