@@ -6,7 +6,7 @@ Para criar uma tarja no sistema AxHub, siga os seguintes passos:
 
 1. Acesse as configurações.
 2. Selecione a opção "Tarja".
-3. Prossiga com a criação da tarja conforme necessário.
+3. Prossiga com a criação da tarja conforme necessário teste.
 
 ---
 
