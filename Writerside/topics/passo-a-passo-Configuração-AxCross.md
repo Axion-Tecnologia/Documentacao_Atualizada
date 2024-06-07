@@ -1,7 +1,3 @@
-Claro, aqui está a versão melhorada da seção "Configuração de Alerta" com a formatação padrão da documentação anterior:
-
----
-
 # Configuração de Alerta
 
 Este guia detalha os procedimentos necessários para criar e configurar um veículo monitorado em conjunto com alerta de ocorrências específicas. Abaixo estão os passos divididos em seções para facilitar a compreensão e execução:
