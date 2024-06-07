@@ -59,8 +59,8 @@ Relatorios --> Relatorio_Placas
 Relatorios --> Relatorio_Veiculos
 }
 
-
-rectangle "Configurações" {
+rectangle "Configurações"{
+rectangle "Auterações" {
 usecase "Configurações do Sistema" as Configuracoes_Sistema
 }
 rectangle "Controle de Acessos" {
@@ -75,6 +75,7 @@ Admin --> Perfis_Acesso
 Admin --> Permissoes
 Admin --> Logs_Acesso
 }
+
 
 @enduml
 

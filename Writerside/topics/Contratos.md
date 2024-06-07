@@ -1,5 +1,6 @@
 # Diagrama dos Contratos
 
+
 <code-block lang="plantuml">
 @startuml
 skinparam rectangle {
@@ -16,6 +17,9 @@ skinparam usecase {
     BorderColor DarkGoldenRod
     RoundCorner 15
 }
+center header
+Diagrama dos Contratos
+end header
 
 left to right direction
 rectangle  {

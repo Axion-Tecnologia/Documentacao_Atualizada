@@ -6,9 +6,7 @@ Para criar uma tarja no sistema AxHub, siga os seguintes passos:
 
 1. Acesse as configurações.
 2. Selecione a opção "Tarja".
-3. Prossiga com a criação da tarja conforme necessário .
-
----
+3. Prossiga com a criação da tarja conforme necessário.
 
 ## Criação de Equipamento
 
@@ -41,7 +39,7 @@ Para criar um modelo de equipamento:
 2. Acesse a seção de modelos de equipamento.
 3. Associe o modelo ao fabricante correspondente.
 
----
+
 
 ## Tipos de Infrações
 
@@ -51,7 +49,7 @@ Para configurar os tipos de infrações:
 2. Selecione a opção "Tipos de Infrações".
 3. Prossiga com a configuração dos tipos de infrações conforme necessário.
 
----
+
 
 ## Enquadramento
 
@@ -71,7 +69,7 @@ Para configurar os enquadramentos:
 2. Escolha a opção "Configurações de Enquadramento".
 3. Realize as configurações necessárias conforme aplicável.
 
----
+
 
 ## Criação de Faixas
 
@@ -81,6 +79,5 @@ Para criar faixas:
 2. Prossiga para a seção de criação de faixas.
 3. Configure as faixas conforme necessário.
 
----
 
 Este documento fornece um guia detalhado sobre como realizar diversas operações no sistema AxHub. Siga as instruções correspondentes para realizar as tarefas desejadas com eficiência.
