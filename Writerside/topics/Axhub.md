@@ -130,7 +130,7 @@ Descrição do público-alvo do sistema, como operadores de tráfego, autoridade
 **Logs de Acesso**: registros de atividades de login e acesso ao sistema, para fins de auditoria e segurança.
 
 
-## **Configurações:
+## Configurações
 **Arcos**: configuração e gestão dos arcos de detecção utilizados pelo sistema.
 
 **Configurações de Enquadramento**: configurações relacionadas ao enquadramento de infrações ou outras ações.
