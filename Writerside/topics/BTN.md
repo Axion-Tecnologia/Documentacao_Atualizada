@@ -1,15 +1,25 @@
-# Diagrama de caso de uso Axton
+# Diagrama
 
 Este tipo de diagrama é muito útil para entender as principais funcionalidades do sistema, identificar os atores envolvidos e suas interações, e comunicar de forma clara e concisa os requisitos funcionais do sistema para os diferentes stakeholders envolvidos no projeto.
 
 
 <code-block lang="plantuml">
 @startuml
-skinparam packageStyle rectangle
-skinparam usecase {
+skinparam rectangle {
+    BackgroundColor LightSkyBlue
+    BorderColor DarkBlue
+    RoundCorner 15
+}
+skinparam actor {
     BackgroundColor LightBlue
     BorderColor DarkBlue
 }
+skinparam usecase {
+    BackgroundColor LightYellow
+    BorderColor DarkGoldenRod
+    RoundCorner 15
+}
+
 left to right direction
 actor Suporte as U
 rectangle "AxTon Application" {

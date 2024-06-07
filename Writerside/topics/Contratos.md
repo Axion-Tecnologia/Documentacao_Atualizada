@@ -1,7 +1,21 @@
-# Mapa completo dos Contratos
+# Diagrama dos Contratos
 
 <code-block lang="plantuml">
 @startuml
+skinparam rectangle {
+    BackgroundColor LightSkyBlue
+    BorderColor DarkBlue
+    RoundCorner 15
+}
+skinparam actor {
+    BackgroundColor LightBlue
+    BorderColor DarkBlue
+}
+skinparam usecase {
+    BackgroundColor LightYellow
+    BorderColor DarkGoldenRod
+    RoundCorner 15
+}
 
 left to right direction
 rectangle  {

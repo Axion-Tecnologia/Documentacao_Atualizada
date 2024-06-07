@@ -1,4 +1,4 @@
-# Mockable.io para teste da Balança
+# Mockable.io 
 
 ## Simulação de Teste com Mockable.io
 é uma plataforma online que permite criar rapidamente 

@@ -1,4 +1,4 @@
-# Passo a passo Configuração AXTON
+# Passo a Passo Configuração Axton
 
 ## MongoDB
 O MongoDB é um banco de dados NoSQL (Not Only SQL), de código aberto e orientado a documentos. 
