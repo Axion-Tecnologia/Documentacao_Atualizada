@@ -15,12 +15,12 @@ Os seguintes dados são incluídos no arquivo de exportação:
 O campo "Endereço Completo" representa a totalidade das informações relacionadas à localização do usuário, incluindo o endereço, número e complemento. Esses detalhes são extraídos do cadastro do usuário associado à pesagem do caminhão.</def>
 </deflist>
 <deflist collapsible="true">
-<def title="Numero AIIP_B" collapsible="true" default-state="expanded">
-O campo "NumeroAIIP" é um número único associado à Autorização de Instalação de Instrumento de Pesagem (AIIP), que é um documento oficial que autoriza a instalação e uso da balança para fins de pesagem de veículos.</def>
+<def title="Numero AIP_B" collapsible="true" default-state="expanded">
+O campo "NumeroAIIP" é um número único associado à Autorização de Instalação de Instrumento de Pesagem (AIP), que é um documento oficial que autoriza a instalação e uso da balança para fins de pesagem de veículos.</def>
 </deflist>
 <deflist collapsible="true">
     <def title="Data e Hora_D" collapsible="true" default-state="expanded">
-O campo "Data e Hora" registra a data e o horário exatos em que a pesagem do caminhão foi realizada. Isso ajuda a rastrear e registrar o momento preciso em que os dados foram coletados.</def></deflist>
+O campo "Data e Hora" registra a data e o horário exato em que a pesagem do caminhão foi realizada. Isso ajuda a rastrear e registrar o momento preciso em que os dados foram coletados.</def></deflist>
 
 <deflist collapsible="true">
     <def title="Placa_E" collapsible="true" default-state="expanded">
@@ -47,7 +47,7 @@ O campo "Excesso PBT" indica a quantidade de peso excedente em relação ao Peso
 
 <deflist collapsible="true">
     <def title="Excesso Dos Eixo Medido_AM" collapsible="true" default-state="expanded">
-O campo "Excesso dos Eixo Medido" refere-se ao peso excedente em relação ao peso permitido para um eixo específico do veículo, conforme medido durante a pesagem. Esse valor é calculado subtraindo o peso legal do eixo do peso real medido.
+O campo "Excesso dos eixos Medido" refere-se ao peso excedente em relação ao peso permitido para um eixo específico do veículo, conforme medido durante a pesagem. Esse valor é calculado subtraindo o peso legal do eixo do peso real medido.
 <code-block lang="tex" >
     \begin{equation}
 \text { Excesso de Todos os Eixo }  =\text { Excesso Eixo1 }  
@@ -58,7 +58,7 @@ O campo "Excesso dos Eixo Medido" refere-se ao peso excedente em relação ao pe
 </deflist>
 <deflist collapsible="true">
     <def title="PBT Regulamentado_AN" collapsible="true" default-state="expanded">
-O campo "PBT Legal" representa o Peso Bruto Total (PBT) máximo permitido por lei para o veículo, determinado de acordo com as regulamentações de trânsito e de segurança rodoviária. 
+O campo "PBT Legal" representa o Peso Bruto Total (PBT) máximo permitido por lei para o veículo, determinado conforme as regulamentações de trânsito e de segurança rodoviária. 
 <br>
 <code-block lang="tex" >
     \begin{equation}
@@ -84,7 +84,7 @@ O campo "Infração" indica se houve violação das regulamentações de peso du
 
 <deflist collapsible="true">
     <def title="Grupo de Eixo_AQ_AV" collapsible="true" default-state="expanded">
-O campo "Grupo de Eixo" identifica a qual grupo específico de eixos do veículo pertence a medição realizada. Isso ajuda na organização e na análise dos dados de pesagem por grupos de eixos, facilitando a compreensão dos resultados. </def>
+O campo "Grupo de Eixo" identifica a qual grupo específico de eixos do veículo pertence à medição realizada. Isso ajuda na organização e na análise dos dados de pesagem por grupos de eixos, facilitando a compreensão dos resultados. </def>
 </deflist>
 
 <deflist collapsible="true">
@@ -117,7 +117,7 @@ O campo "Excesso de Eixo" representa a quantidade de peso excedente em relação
 
 ## Regulamentação de Pesos para Fiscalização de Veículos
 
-De acordo com a regulamentação estabelecida pelo Conselho Nacional de Trânsito (Contran), os veículos ou combinações de veículos com peso bruto total regulamentar igual ou inferior a 50 toneladas devem ser fiscalizados apenas quanto aos limites de peso bruto total ou peso bruto total combinado, exceto em casos específicos estabelecidos pelo Contran.
+Conforme a regulamentação estabelecida pelo Conselho Nacional de Trânsito (Contran), os veículos ou combinações de veículos com peso bruto total regulamentar igual ou inferior a 50 toneladas devem ser fiscalizados apenas quanto aos limites de peso bruto total ou peso bruto total combinado, exceto em casos específicos estabelecidos pelo Contran.
 
 ### Limites de Peso Regulamentados
 

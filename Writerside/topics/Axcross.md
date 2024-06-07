@@ -8,10 +8,10 @@
 
 ### Fluxo das Últimas 3 Horas
 - **Descrição:** Exibe um gráfico ou tabela com o fluxo de passagens registradas nas últimas três horas.
-- **Funcionalidade:** Fornece uma visão detalhada da movimentação de veículos em um curto período de tempo, permitindo aos usuários identificar padrões ou anomalias.
+- **Funcionalidade:** Fornece uma visão detalhada da movimentação de veículos em um curto período, permitindo aos usuários identificar padrões ou anomalias.
 
 ### Quantidade de Passagens por Minuto
-- **Descrição:** Apresenta a média de passagens registradas por minuto em um determinado período de tempo.
+- **Descrição:** Apresenta a média de passagens registradas por minuto em um determinado período.
 - **Funcionalidade:** Permite aos usuários avaliar a densidade do tráfego em tempo real e identificar picos de atividade.
 
 ---
@@ -19,19 +19,19 @@
 ## 2. Veículos Monitorados
 
 ### Dashboard
-- **Descrição:** Oferece uma visão geral do status e das ocorrências dos veículos monitorados.
+- **Descrição:** Oferece uma visão geral da posição e das ocorrências dos veículos monitorados.
 - **Funcionalidade:** Permite aos usuários acompanhar em tempo real a localização, o estado e os eventos relacionados a cada veículo.
 
 ### Veículos Monitorados
 - **Descrição:** Lista os veículos sob monitoramento, juntamente com suas informações relevantes.
-- **Funcionalidade:** Permite aos usuários visualizar e gerenciar os veículos registrados no sistema, incluindo detalhes como tipo de ocorrência, alertas e classificação.
+- **Funcionalidade:** Permite aos usuários visualizar e gerenciar os veículos registrados no sistema, incluindo detalhes como tipo de ocorrência, alerta e classificação.
 
 ---
 
 ## 3. Equipamentos
 
 ### Áreas
-- **Descrição:** Define e gerencia as áreas de monitoramento onde os equipamentos estão instalados.
+- **Descrição:** Define e gerência as áreas de monitoramento onde os equipamentos estão instalados.
 - **Funcionalidade:** Permite aos usuários configurar e delimitar as áreas geográficas onde o sistema irá monitorar a movimentação de veículos.
 
 ---
@@ -47,7 +47,7 @@
 ## 5. Relatórios
 
 ### Relatório de Passagens
-- **Descrição:** Gera um relatório detalhado das passagens registradas em um período de tempo específico.
+- **Descrição:** Gera um relatório detalhado das passagens registradas em um período específico.
 - **Funcionalidade:** Permite aos usuários analisar e exportar dados relacionados às passagens de veículos, incluindo horários, localizações e tipos de veículos.
 
 ### Relatório de Mapeamento de Rotas
@@ -56,10 +56,10 @@
 
 ### Relatório de Rastreamento de Placas
 - **Descrição:** Gera um relatório que rastreia a movimentação de veículos com base em suas placas de identificação.
-- **Funcionalidade:** Permite aos usuários monitorar o histórico de localização e as atividades de veículos específicos ao longo de um período de tempo definido.
+- **Funcionalidade:** Permite aos usuários monitorar o histórico de localização e as atividades de veículos específicos ao longo de um período definido.
 
 ### Relatório de Veículos Monitorados
-- **Descrição:** Produz um relatório que resume o status e as ocorrências dos veículos monitorados em um período de tempo determinado.
+- **Descrição:** Produz um relatório que resume o status e as ocorrências dos veículos monitorados em um período determinado.
 - **Funcionalidade:** Oferece uma visão abrangente do desempenho e da atividade dos veículos monitorados, ajudando os usuários a identificar tendências e áreas de melhoria.
 
 ---
@@ -68,7 +68,7 @@
 
 ### Configurações do Sistema
 - **Descrição:** Permite a personalização e configuração das preferências do sistema.
-- **Funcionalidade:** Capacita os administradores a ajustar as configurações do sistema de acordo com as necessidades específicas da organização.
+- **Funcionalidade:** Capacita os administradores a ajustar as configurações do sistema conforme as necessidades específicas da organização.
 
 ### Controle de Acessos
 

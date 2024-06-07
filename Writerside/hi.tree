@@ -16,8 +16,6 @@
         <toc-element topic="passo-a-passo-Configuração-AxCross.md"/>
         <toc-element topic="Diagrama-de-caso-de-uso.md"/>
     </toc-element>
-    <toc-element topic="AxManage.md">
-    </toc-element>
     <toc-element topic="Axton.md">
         <toc-element topic="Passo-a-Passo.md"/>
         <toc-element topic="Pesagem.md">
@@ -25,4 +23,5 @@
         <toc-element topic="Exportação.md"/>
         <toc-element topic="BTN.md"/>
     </toc-element>
+    <toc-element topic="AxManage.md"/>
 </instance-profile>

@@ -13,12 +13,12 @@ Na pasta "Axion.AxSync", coloque os seguintes arquivos necessários para o funci
 - `app.exe` (ou qualquer outro nome que o aplicativo tenha)
 - `setting.json`
 - `axion.services`
-- `sqlite` (ou quaisquer outros arquivos necessários)
+- 'sqlite' (ou quaisquer outros arquivos necessários)
 
 ### Trocar Nome do Equipamento no JSON
 Para trocar o nome do equipamento no arquivo JSON, siga estas etapas:
 
-1. Abra o arquivo `setting.json` com um editor de texto.
+1. Abra o arquivo 'setting.json' com um editor de texto.
 2. Localize o campo que define o nome do equipamento.
 3. Substitua o nome atual pelo novo nome do equipamento.
 4. Salve as alterações no arquivo JSON.
@@ -42,7 +42,7 @@ sudo nano /etc/systemd/system/AxSync.service
 ```
 
 <warning>
-<p>Atenção: Substitua `USUARIOLINUX` pelo usuário da máquina nos comandos abaixo.</p>
+<p>Atenção: Substitua 'USUARIOLINUX' pelo usuário da máquina nos comandos abaixo.</p>
 </warning>
 
 ### Colar as Configurações no Arquivo AxSync.service
@@ -119,7 +119,7 @@ sudo systemctl status AxSync.service
 ```
 
 <warning>
-Verifique a câmera para garantir que esteja funcionando corretamente para capturar as passagens. Sem a câmera, o AxSync não será capaz de enviar as passagens para o AxHub.
+Verifique a câmera para garantir que esteja funcionando corretamente para capturar as passagens. Sem a câmera, o AxSync não conseguirá enviar as passagens para o AxHub.
 </warning>
 
 ## Lista de Comandos Úteis
