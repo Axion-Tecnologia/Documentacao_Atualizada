@@ -51,7 +51,3 @@ A seção "Operação" é essencial para garantir que os usuários compreendam c
 Ao incluir informações sobre a operação do sistema, os usuários podem se sentir mais capacitados para utilizar todas as funcionalidades oferecidas pelo sistema de pesagem Axton de maneira eficaz e sem complicações.
 
 > **Observação:** Certifique-se de verificar se o Local e o Usuário foram cadastrados corretamente.
-
----
-
-Se precisar de mais alguma alteração ou inclusão de detalhes, é só avisar!

@@ -123,7 +123,3 @@ O AxManager é um sistema avançado para o monitoramento, gestão e configuraç�
 **Descrição:** Oferece suporte para notificações via Telegram e notificação no navegador.
 
 **Funcionalidades:** Configuração e envio de notificações por diferentes canais.
-
----
-
-Se precisar de mais alguma alteração ou inclusão de detalhes, é só avisar!

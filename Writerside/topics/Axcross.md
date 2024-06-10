@@ -79,7 +79,3 @@ O AxCross é um sistema abrangente de monitoramento e gestão de veículos e equ
 #### Logs de Acesso
 **Descrição:** Registra e monitora as atividades de login dos usuários.
 **Funcionalidade:** Fornece um registro detalhado das interações dos usuários com o sistema, ajudando a rastrear e auditar o uso da plataforma.
-
----
-
-Se precisar de mais alguma alteração ou inclusão de detalhes, é só avisar!
