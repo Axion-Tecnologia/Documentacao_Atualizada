@@ -72,5 +72,5 @@ Para mais detalhes, confira nosso [Guia de Contribuição](CONTRIBUTING.md).
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
-Feito com ❤️ por [Vinicius ](https://github.com/seu-usuario)
+Feito com ❤️ por [Vinicius ](https://github.com/viniciuscm09)
 
