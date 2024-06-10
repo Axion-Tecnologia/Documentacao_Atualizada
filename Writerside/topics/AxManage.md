@@ -1,5 +1,9 @@
 # AXMANAGER
 
+## Introdução
+
+O AxManager é um sistema avançado para o monitoramento, gestão e configuração de equipamentos de tráfego. Ele proporciona um ambiente centralizado para o cadastro e gerenciamento de dispositivos, faixas de tráfego, contratos e muito mais. Este documento oferece um guia detalhado sobre as funcionalidades do AxManager, facilitando a operação e a configuração do sistema.
+
 ## Cadastros de Operação
 
 ### Cadastro de Equipamento
@@ -57,11 +61,13 @@
 **Funcionalidades:** Registro e gerenciamento de informações das empresas contratadas.
 
 ### Cadastramento de Órgão
+
 **Descrição:** Cadastra órgãos públicos ou entidades responsáveis pelos contratos.
 
 **Funcionalidades:** Registro e gerenciamento de informações dos órgãos responsáveis.
 
 ### Cadastro de Configuração de Contrato
+
 **Descrição:** Configura detalhes de cada contrato, como exibição de imagens dos equipamentos associados.
 
 **Funcionalidades:** Detalhamento e personalização das configurações contratuais.
@@ -69,6 +75,7 @@
 ## Integração com Azure
 
 ### Chave da Conta: Azure
+
 **Descrição:** Define a chave de conta do Azure para integração com serviços de armazenamento em nuvem.
 
 **Funcionalidades:** Autenticação e configuração para integração com Azure.
@@ -94,26 +101,29 @@
 **Funcionalidades:** Pesquisa e localização eficiente de equipamentos no mapa de operação.
 
 ### Equipamentos Offline
+
 **Descrição:** Lista os equipamentos offline para gerenciamento rápido e eficaz.
 
 **Funcionalidades:** Identificação e resolução de problemas de conectividade dos equipamentos.
 
 ### Busca por Contrato
+
 **Descrição:** Permite a busca de equipamentos com base nos contratos estabelecidos.
 
 **Funcionalidades:** Organização e filtragem de equipamentos por contrato.
 
 ## Cadastro de Alerta
-**Descrição:** Configura regras específicas para acionar alerta com base em condições pré-definidas.
 
-**Funcionalidades:** Personalização de condições e critérios para alerta.
+**Descrição:** Configura regras específicas para acionar alertas com base em condições pré-definidas.
 
-**Descrição:** Configura notificações para equipamentos com base nos contratos estabelecidos.
+**Funcionalidades:** Personalização de condições e critérios para alertas.
 
 ### Integração com Canais de Notificação
-**Descrição:** Oferece suporte para notificações via Telegram e Notificação no Navegador.
+
+**Descrição:** Oferece suporte para notificações via Telegram e notificação no navegador.
 
 **Funcionalidades:** Configuração e envio de notificações por diferentes canais.
 
+---
 
-Esta versão da documentação está mais estruturada e detalhada, fornecendo uma visão clara e organizada das funcionalidades e configurações disponíveis no AXMANAGER. Certifique-se de seguir cada seção para garantir uma configuração correta e eficiente do sistema.
+Se precisar de mais alguma alteração ou inclusão de detalhes, é só avisar!

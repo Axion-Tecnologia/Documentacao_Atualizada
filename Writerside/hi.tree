@@ -23,5 +23,7 @@
         <toc-element topic="Exportação.md"/>
         <toc-element topic="BTN.md"/>
     </toc-element>
-    <toc-element topic="AxManage.md"/>
+    <toc-element topic="AxManage.md">
+        <toc-element topic="Cadastramento-de-Equipamentos.md"/>
+    </toc-element>
 </instance-profile>

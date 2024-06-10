@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/images/GrupodeEquipamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/AxManage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/AxManage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +118,8 @@
       <workItem from="1717507781438" duration="196000" />
       <workItem from="1717507990179" duration="940000" />
       <workItem from="1717683215412" duration="6708000" />
-      <workItem from="1717759419920" duration="7709000" />
+      <workItem from="1717759419920" duration="9565000" />
+      <workItem from="1718020309476" duration="9178000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
