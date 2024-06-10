@@ -1,7 +1,7 @@
 
 # 📚 Documentação Axion
 
-Bem-vindo ao repositório [GitPages](https://viniciuscm09.github.io/Documentacao_Atualizada/diagrama-de-caso-de-uso.html). Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
+Bem-vindo ao repositório [GitPages](https://viniciuscm09.github.io/Documentacao_Atualizada). Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
 
 ## ⚙️ Passo a Passo
 
