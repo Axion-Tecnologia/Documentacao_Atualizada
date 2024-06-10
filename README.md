@@ -5,14 +5,6 @@ Bem-vindo ao repositório [GitPages](https://viniciuscm09.github.io/Documentacao
 
 ## ⚙️ Configuração
 
-### Pré-requisitos
-
-- [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/)
-- Conta no [GitHub](https://github.com/)
-
-### Passos
-
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/Documentacao_Atualizada.git
