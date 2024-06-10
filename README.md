@@ -3,7 +3,7 @@
 
 Bem-vindo ao repositório [GitPages](https://viniciuscm09.github.io/Documentacao_Atualizada/diagrama-de-caso-de-uso.html). Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
 
-## ⚙️ Configuração
+## ⚙️ Passo a Passo
 
 1. Clone o repositório:
    ```bash
