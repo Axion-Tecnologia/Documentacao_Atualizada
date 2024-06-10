@@ -1,29 +1,7 @@
 
-```markdown
-# 📚 Documentação Atualizada
+# 📚 Documentação Axion
 
-Bem-vindo ao repositório **Documentação Atualizada**! Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
-
-## 🔍 Visão Geral
-
-Este projeto é dedicado à documentação do projeto Axion. Utilizamos o [Writerside](https://www.jetbrains.com/writerside/) para criar, manter e publicar nossa documentação, garantindo que ela esteja sempre atualizada e acessível.
-
-## 📁 Estrutura do Projeto
-
-Aqui está a estrutura principal do repositório:
-
- ```bash
-.
-├── .github/
-│   └── workflows/
-│       └── build-docs.yml    # Workflow do GitHub Actions para construir e publicar a documentação
-├── .idea/                    # Arquivos de configuração do projeto
-├── Writerside/               # Arquivos específicos do Writerside
-├── src/                      # Código-fonte do projeto
-├── .gitignore                # Arquivo gitignore
-├── Documentacao_Atualizada.iml # Arquivo do projeto
-└── README.md                 # Documentação do projeto
-```
+Bem-vindo ao repositório[GitPages](https://viniciuscm09.github.io/Documentacao_Atualizada/diagrama-de-caso-de-uso.html). Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
 
 ## ⚙️ Configuração
 
@@ -65,12 +43,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-Para mais detalhes, confira nosso [Guia de Contribuição](CONTRIBUTING.md).
-
 ## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 
 Feito com ❤️ por [Vinicius ](https://github.com/viniciuscm09)
 
