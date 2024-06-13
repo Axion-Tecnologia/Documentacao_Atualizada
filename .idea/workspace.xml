@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,6 +125,7 @@
       <workItem from="1718200194970" duration="2140000" />
       <workItem from="1718202365737" duration="6376000" />
       <workItem from="1718279794997" duration="2594000" />
+      <workItem from="1718279794997" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -142,23 +143,7 @@
       <option name="project" value="LOCAL" />
       <updated>1718279839950</updated>
     </task>
-    <task id="LOCAL-00003" summary="Resolve conflitos após pull">
-      <option name="closed" value="true" />
-      <created>1718281023524</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1718281023524</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Resolve conflitos após pull">
-      <option name="closed" value="true" />
-      <created>1718282432969</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1718282432969</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +153,11 @@
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN" />
+        <entry key="MAIN">
+          <value>
+
+          </value>
+        </entry>
       </map>
     </option>
   </component>
