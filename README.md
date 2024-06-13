@@ -5,7 +5,7 @@ Bem-vindo à documentação da [Axion Tecnologia](https://viniciuscm09.github.io
 ## ⚙️ Passo a Passo
 
 ### 1. Clone o repositório
-Para começar, clone o repositório e navegue até o diretório do projeto:
+Para começar, clone o repositório e navegue até o diretório do projeto teste:
 
 ```bash
 git clone https://github.com/seu-usuario/Documentacao_Atualizada.git
