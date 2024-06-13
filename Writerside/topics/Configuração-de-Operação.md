@@ -34,7 +34,7 @@ Para criar um tipo de equipamento:
 Para cadastrar um fabricante:
 
 1. Acesse a seção de fabricantes.
-2. Adicione os detalhes do fabricante necessários.
+2. Adicione os detalhes do fabricante necessário.
 
 #### Modelo de Equipamento
 

@@ -15,7 +15,24 @@ skinparam usecase {
     BorderColor DarkGoldenRod
     RoundCorner 15
 }
+@startuml
+skinparam rectangle {
+    BackgroundColor LightSkyBlue
+    BorderColor DarkBlue
+    RoundCorner 15
+}
+skinparam actor {
+    BackgroundColor LightBlue
+    BorderColor DarkBlue
+}
+skinparam usecase {
+    BackgroundColor LightYellow
+    BorderColor DarkGoldenRod
+    RoundCorner 15
+}
 left to right direction
+
+title Diagrama de Caso de Uso
 
 actor Administrador as Admin
 actor Usuário as User
@@ -47,20 +64,20 @@ usecase "Relatório de Veículos Monitorados" as Relatorio_Veiculos
 }
 
 User --> Veiculos_Monitorados
-User --> Equipamentos
-User --> Monitoramento_Online
-User --> Relatorios
-Veiculos_Monitorados --> Dashboard_VM
-Veiculos_Monitorados --> Veiculos_Monitorados_VM
-Monitoramento_Online --> Mapa_Equipamento
-Relatorios --> Relatorio_Passagens
-Relatorios --> Relatorio_Rotas
-Relatorios --> Relatorio_Placas
-Relatorios --> Relatorio_Veiculos
+    User --> Equipamentos
+    User --> Monitoramento_Online
+    User --> Relatorios
+    Veiculos_Monitorados --> Dashboard_VM
+    Veiculos_Monitorados --> Veiculos_Monitorados_VM
+    Monitoramento_Online --> Mapa_Equipamento
+    Relatorios --> Relatorio_Passagens
+    Relatorios --> Relatorio_Rotas
+    Relatorios --> Relatorio_Placas
+    Relatorios --> Relatorio_Veiculos
 }
 
-rectangle "Configurações"{
-rectangle "Auterações" {
+rectangle "Configurações" {
+rectangle "Alterações" {
 usecase "Configurações do Sistema" as Configuracoes_Sistema
 }
 rectangle "Controle de Acessos" {
@@ -76,8 +93,8 @@ Admin --> Permissoes
 Admin --> Logs_Acesso
 }
 
-
 @enduml
+
 
 
 </code-block>

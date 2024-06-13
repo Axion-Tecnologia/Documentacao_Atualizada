@@ -1,5 +1,3 @@
-
-
 # AXTON
 
 O Axton é um sistema de pesagem robusto que oferece uma variedade de operações para gerenciar eficientemente o processo de pesagem de veículos. Este documento fornece um guia detalhado sobre as configurações e operações disponíveis no sistema Axton.

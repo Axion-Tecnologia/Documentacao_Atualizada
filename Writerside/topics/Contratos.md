@@ -39,7 +39,6 @@ rectangle  {
 usecase "ITPS" as ITPS
 usecase "IMEPI" as IMEPI
 usecase "IMEQPB" as IMEQPB
-usecase "INMEQMA" as INMEQMA
 usecase "IMETROPA" as IMETROPA
 usecase "IBAMETRO" as IBAMETRO
 }
@@ -69,7 +68,6 @@ usecase "AxCross" as AxCross
 Crono --> ITPS
 Crono --> IMEPI
 Crono --> IMEQPB
-Crono --> INMEQMA
 Crono --> IMETROPA
 Crono --> IBAMETRO
 

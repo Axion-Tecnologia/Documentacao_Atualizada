@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configuração.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Tutorial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Webhooks.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axcross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axcross.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axhub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axhub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axton.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Contratos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Contratos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Diagrama-de-caso-de-uso.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Diagrama-de-caso-de-uso.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,24 +85,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -115,7 +126,13 @@
       <workItem from="1717507990179" duration="940000" />
       <workItem from="1717683215412" duration="6708000" />
       <workItem from="1717759419920" duration="9565000" />
-      <workItem from="1718020309476" duration="10118000" />
+      <workItem from="1718020309476" duration="11414000" />
+      <workItem from="1718106435259" duration="4047000" />
+      <workItem from="1718125515634" duration="73000" />
+      <workItem from="1718125602810" duration="593000" />
+      <workItem from="1718194382405" duration="2006000" />
+      <workItem from="1718200194970" duration="2140000" />
+      <workItem from="1718202365737" duration="6376000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
