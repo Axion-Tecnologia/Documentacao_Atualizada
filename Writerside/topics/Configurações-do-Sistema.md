@@ -136,5 +136,3 @@ A seção de Configurações do Sistema no AXHUB permite aos administradores aju
 - **Índice de OCR:** Ativado/Desativado.
 
 ---
-
-Esta documentação cobre detalhadamente as opções de configuração disponíveis na interface de Configurações do Sistema do AXHUB. Se houver atualizações ou novas funcionalidades, revise e atualize esta documentação conforme necessário.

@@ -123,4 +123,8 @@
         <description>Created after removal of "AXION" from Axion</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="5ec80a21">
+        <description>Created after removal of "How to" from Axion</description>
+        <accepts>How-to.html</accepts>
+    </rule>
 </rules>

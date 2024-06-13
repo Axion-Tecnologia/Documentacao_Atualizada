@@ -9,11 +9,11 @@
     <toc-element topic="Axhub.md">
         <toc-element topic="Configuração-de-Operação.md">
         </toc-element>
-        <toc-element topic="Contratos.md"/>
         <toc-element topic="Configuração.md">
             <toc-element topic="Configurações-do-Sistema.md"/>
             <toc-element topic="Webhooks.md"/>
         </toc-element>
+        <toc-element topic="Contratos.md"/>
     </toc-element>
     <toc-element topic="Axcross.md">
         <toc-element topic="passo-a-passo-Configuração-AxCross.md"/>
