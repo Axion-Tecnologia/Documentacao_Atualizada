@@ -1,6 +1,11 @@
-# Configuração de Operação
 
-## 1. Configuração de Tarja
+# Guia de Configuração e Operação
+
+Este documento fornece um guia detalhado sobre como realizar diversas operações no sistema AxHub. Siga as instruções correspondentes para realizar as tarefas desejadas com eficiência.
+
+## Configuração de Operação
+
+### Configuração de Tarja
 
 Para criar uma tarja no sistema AxHub, siga os seguintes passos:
 
@@ -8,32 +13,30 @@ Para criar uma tarja no sistema AxHub, siga os seguintes passos:
 2. Selecione a opção "Tarja".
 3. Prossiga com a criação da tarja conforme necessário.
 
----
+### Criação de Equipamento
 
-## 2. Criação de Equipamento
-
-### 2.1. Grupo de Equipamento
+#### Grupo de Equipamento
 
 Para criar um grupo de equipamento:
 
 1. Acesse a seção de criação de grupos.
 2. Insira os detalhes do grupo conforme requerido.
 
-### 2.2. Tipos de Equipamentos
+#### Tipos de Equipamentos
 
 Para criar um tipo de equipamento:
 
 1. Acesse a seção de tipos de equipamentos.
 2. Cadastre o tipo de equipamento desejado.
 
-### 2.3. Fabricantes
+#### Fabricantes
 
 Para cadastrar um fabricante:
 
 1. Acesse a seção de fabricantes.
-2. Adicione os detalhes do fabricante necessário.
+2. Adicione os detalhes do fabricante necessários.
 
-### 2.4. Modelo de Equipamento
+#### Modelo de Equipamento
 
 Para criar um modelo de equipamento:
 
@@ -41,9 +44,7 @@ Para criar um modelo de equipamento:
 2. Acesse a seção de modelos de equipamento.
 3. Associe o modelo ao fabricante correspondente.
 
----
-
-## 3. Tipos de Infrações
+### Tipos de Infrações
 
 Para configurar os tipos de infrações:
 
@@ -51,11 +52,9 @@ Para configurar os tipos de infrações:
 2. Selecione a opção "Tipos de Infrações".
 3. Prossiga com a configuração dos tipos de infrações conforme necessário.
 
----
+### Enquadramento
 
-## 4. Enquadramento
-
-### 4.1. Criação de Enquadramento
+#### Criação de Enquadramento
 
 Para cadastrar um novo enquadramento:
 
@@ -63,7 +62,7 @@ Para cadastrar um novo enquadramento:
 2. Selecione a opção "Enquadramento".
 3. Cadastre o novo enquadramento conforme exigido.
 
-### 4.2. Configurações de Enquadramento
+#### Configurações de Enquadramento
 
 Para configurar os enquadramentos:
 
@@ -71,9 +70,7 @@ Para configurar os enquadramentos:
 2. Escolha a opção "Configurações de Enquadramento".
 3. Realize as configurações necessárias conforme aplicável.
 
----
-
-## 5. Criação de Faixas
+### Criação de Faixas
 
 Para criar faixas:
 
@@ -81,6 +78,3 @@ Para criar faixas:
 2. Prossiga para a seção de criação de faixas.
 3. Configure as faixas conforme necessário.
 
----
-
-Este documento fornece um guia detalhado sobre como realizar diversas operações no sistema AxHub. Siga as instruções correspondentes para realizar as tarefas desejadas com eficiência.

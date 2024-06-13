@@ -1,7 +1,25 @@
-# Contratos da Axion
+# Diagrama dos Contratos
+
 
 <code-block lang="plantuml">
 @startuml
+skinparam rectangle {
+    BackgroundColor LightSkyBlue
+    BorderColor DarkBlue
+    RoundCorner 15
+}
+skinparam actor {
+    BackgroundColor LightBlue
+    BorderColor DarkBlue
+}
+skinparam usecase {
+    BackgroundColor LightYellow
+    BorderColor DarkGoldenRod
+    RoundCorner 15
+}
+center header
+Diagrama dos Contratos
+end header
 
 left to right direction
 rectangle  {

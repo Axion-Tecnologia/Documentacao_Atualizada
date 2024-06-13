@@ -1,10 +1,6 @@
-Claro, aqui está a versão melhorada da seção "Configuração de Alertas" com a formatação padrão da documentação anterior:
+# Configuração de Alerta
 
----
-
-# Configuração de Alertas
-
-Este guia detalha os procedimentos necessários para criar e configurar um veículo monitorado em conjunto com alertas de ocorrências específicas. Abaixo estão os passos divididos em seções para facilitar a compreensão e execução:
+Este guia detalha os procedimentos necessários para criar e configurar um veículo monitorado em conjunto com alerta de ocorrências específicas. Abaixo estão os passos divididos em seções para facilitar a compreensão e execução:
 
 ## Criação de Tipo de Ocorrência
 
@@ -40,9 +36,9 @@ Para delimitar áreas específicas de monitoramento, é necessário criar faixas
 - Especifique o número da faixa para identificação.
 - Insira o logradouro, complemento, número do endereço, bairro, cidade e estado para definir a localização da faixa.
 
-## Configuração de Alertas
+## Configuração de Alerta
 
-Para receber notificações sobre ocorrências específicas, configure os alertas conforme necessário. Siga as instruções abaixo:
+Para receber notificações sobre ocorrências específicas, configure os alerta conforme necessário. Siga as instruções abaixo:
 
 ### Criação de Alerta:
 - Escolha um nome descritivo para o alerta.
@@ -67,6 +63,6 @@ Por fim, configure e personalize os relatórios de passagens conforme necessári
 
 ---
 
-Este guia fornece uma visão abrangente e passo a passo para criar e configurar um veículo monitorado, juntamente com alertas e relatórios associados. Certifique-se de seguir cada etapa cuidadosamente para garantir uma configuração precisa e funcional do sistema de monitoramento.
+Este guia fornece uma visão abrangente e passo a passo para criar e configurar um veículo monitorado, juntamente com alerta e relatórios associados. Certifique-se de seguir cada etapa cuidadosamente para garantir uma configuração precisa e funcional do sistema de monitoramento.
 
 ---

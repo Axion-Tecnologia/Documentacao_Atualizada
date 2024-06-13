@@ -1,7 +1,7 @@
-# Mockable.io para teste da Balança
+# Mockable.io 
 
 ## Simulação de Teste com Mockable.io
-é uma plataforma online que permite criar rapidamente 
+É uma plataforma online que permite criar rapidamente 
 APIs simuladas (ou "mocks") para testar integrações de 
 software ou desenvolver protótipos. Com o Mockable.io, você 
 pode criar endpoints personalizados com respostas fictícias para 
@@ -16,7 +16,7 @@ Para simular uma API de teste no Mockable.io usando JSON, siga estas etapas:
 <list type="decimal" start="1">
 <li>  Acesso ao Mockable.io </li>
 </list>
- <p>Acesse o site oficial do <a href="https://www.mockable.io/" > Mockable.io </a>
+ <p>Acesse o site oficial do <a href="https://www.mockable.io/" >Mockable.io </a>
 e faça login na sua conta. Se você ainda não tem uma conta, pode se registrar gratuitamente.</p>
 
 
@@ -38,7 +38,7 @@ Adicione um novo endpoint clicando no botão "Add Endpoint". Defina o método HT
 <li> Adição de Respostas Simuladas
 </li>
 </list>
-Para cada endpoint, adicione respostas simuladas clicando nele e configurando as respostas desejadas. Cada resposta pode ter seu próprio status HTTP, cabeçalhos e corpo de resposta em formato JSON.
+Para cada endpoint, adicione respostas simuladas clicando nele e configurando as respostas desejadas. Cada resposta pode ter seu próprio posição HTTP, cabeçalhos e corpo de resposta em formato JSON.
 
 
 <list type="decimal" start="5">

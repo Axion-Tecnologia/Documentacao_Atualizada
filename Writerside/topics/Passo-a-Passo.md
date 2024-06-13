@@ -1,8 +1,8 @@
-# Passo a passo Configuração AXTON
+# Configuração Axton
 
 ## MongoDB
 O MongoDB é um banco de dados NoSQL (Not Only SQL), de código aberto e orientado a documentos. 
-Ele difere dos bancos de dados relacionais tradicionais, como o MySQL ou o PostgreSQL, em sua abordagem de armazenamento 
+Ele difere dos bancos de dados relacionais tradicionais, como o MySQL ou o PostgresSQL, em sua abordagem de armazenamento 
 e recuperação de dados.
 
 ### Intalações﻿
@@ -13,7 +13,7 @@ Acesse o link <a href="https://www.mongodb.com/try/download/community">MongoDB C
 </deflist>
 <deflist collapsible="true">
     <def title="Instalação do MongoDB Compass" collapsible="true" default-state="expanded">
-Baixe e instale o <a href="https://www.mongodb.com/try/download/community"></a>MongoDBCompass. </def>
+Baixe e instale o <a href="https://www.mongodb.com/try/download/community"></a> MongoDBCompass. </def>
 </deflist>
 
 <deflist collapsible="true">

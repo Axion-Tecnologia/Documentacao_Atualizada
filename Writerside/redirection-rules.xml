@@ -111,4 +111,8 @@
         <description>Created after removal of "AXSYNC" from Axion</description>
         <accepts>AxSync.html</accepts>
     </rule>
+    <rule id="161f6645">
+        <description>Created after removal of "Passo a passo Configuração AXMANAGER" from Axion</description>
+        <accepts>passo-a-passo-Configuração-AxManager.html</accepts>
+    </rule>
 </rules>

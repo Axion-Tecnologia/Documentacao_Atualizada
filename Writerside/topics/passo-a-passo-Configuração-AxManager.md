@@ -1,3 +1,0 @@
-# Passo a passo Configuração AXMANAGER
-
-Start typing here...
