@@ -7,7 +7,7 @@ Este documento fornece um guia detalhado sobre como realizar diversas operaçõe
 
 ### Configuração de Tarja
 
-Para criar uma tarja no sistema AxHub, siga os seguintes passos:
+Para criar uma tarja no sistema AxHub, siga os seguintes passos: a
 
 1. Acesse as configurações.
 2. Selecione a opção "Tarja".
@@ -34,7 +34,7 @@ Para criar um tipo de equipamento:
 Para cadastrar um fabricante:
 
 1. Acesse a seção de fabricantes.
-2. Adicione os detalhes do fabricante necessários.
+2. Adicione os detalhes do fabricante necessário.
 
 #### Modelo de Equipamento
 

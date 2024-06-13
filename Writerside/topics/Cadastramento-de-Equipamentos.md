@@ -1,4 +1,4 @@
-# Sistema de Monitoramento de Equipamentos
+# Monitoramento de Equipamentos
 
 ## Introdução
 

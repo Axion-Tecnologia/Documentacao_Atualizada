@@ -115,4 +115,12 @@
         <description>Created after removal of "Passo a passo Configuração AXMANAGER" from Axion</description>
         <accepts>passo-a-passo-Configuração-AxManager.html</accepts>
     </rule>
+    <rule id="d91b37">
+        <description>Created after removal of "Reference" from Axion</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="348e998e">
+        <description>Created after removal of "AXION" from Axion</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>
