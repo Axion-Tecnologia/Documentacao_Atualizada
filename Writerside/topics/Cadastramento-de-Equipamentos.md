@@ -92,5 +92,3 @@ Operações são as atividades específicas realizadas com os equipamentos ao lo
 - **Selecione o Grupo:** [Seleção do Grupo]
 
 ---
-
-Se precisar de mais alguma alteração ou inclusão de detalhes, é só avisar!

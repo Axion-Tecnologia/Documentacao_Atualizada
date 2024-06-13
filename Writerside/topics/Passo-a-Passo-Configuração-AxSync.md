@@ -263,5 +263,3 @@ Claro, aqui está a parte solicitada revisada e melhorada:
     - No Dashboard, verifique a seção "OCR nas Últimas 48 Horas" para confirmar se as passagens estão sendo recebidas e processadas corretamente.
 
 ---
-
-Esta versão oferece uma estrutura mais clara e detalhada para verificar as passagens no Axhub.

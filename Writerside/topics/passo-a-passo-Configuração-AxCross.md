@@ -61,8 +61,3 @@ Por fim, configure e personalize os relatórios de passagens conforme necessári
 ### Faixa:
 - Crie faixas geográficas para delimitar áreas específicas de interesse para o relatório.
 
----
-
-Este guia fornece uma visão abrangente e passo a passo para criar e configurar um veículo monitorado, juntamente com alerta e relatórios associados. Certifique-se de seguir cada etapa cuidadosamente para garantir uma configuração precisa e funcional do sistema de monitoramento.
-
----

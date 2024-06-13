@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Webhooks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Webhooks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo-Configuração-AxSync.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo-Configuração-AxSync.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,7 @@
       <workItem from="1718202365737" duration="6376000" />
       <workItem from="1718279794997" duration="2594000" />
       <workItem from="1718279794997" duration="1095000" />
-      <workItem from="1718283156664" duration="3260000" />
+      <workItem from="1718283156664" duration="4393000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -150,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718279839950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1718286460193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718286460193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1718286803771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718286803771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
