@@ -127,4 +127,8 @@
         <description>Created after removal of "How to" from Axion</description>
         <accepts>How-to.html</accepts>
     </rule>
+    <rule id="656e4a09">
+        <description>Created after removal of "Configuração" from Axion</description>
+        <accepts>Configuração.html</accepts>
+    </rule>
 </rules>
