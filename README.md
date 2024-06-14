@@ -1,6 +1,6 @@
 # 📚 Documentação Axion
 
-Bem-vindo à documentação da [Axion Tecnologia] Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
+Bem-vindo à documentação da Axion Tecnologia Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
 
 ## ⚙️ Passo a Passo
 
