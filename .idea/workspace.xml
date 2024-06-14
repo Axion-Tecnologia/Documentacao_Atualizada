@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_10_01_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_10_01__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo-Configuração-AxSync.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo-Configuração-AxSync.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Webhooks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Webhooks.md" afterDir="false" />
-    </list>
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +127,7 @@
       <workItem from="1718279794997" duration="2594000" />
       <workItem from="1718279794997" duration="1095000" />
       <workItem from="1718283156664" duration="5333000" />
-      <workItem from="1718365991336" duration="3120000" />
+      <workItem from="1718365991336" duration="3735000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -175,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718287762303</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1718391779487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718391779487</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
