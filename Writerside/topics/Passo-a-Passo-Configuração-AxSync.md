@@ -1,5 +1,6 @@
 
 # AXSYNC
+
 Para que uma operação seja executada no Axhub, é necessário configurar o AxSync. Siga estes passos para configurar o AxSync e permitir que operações sejam executadas no Axhub:
 
 ## Configuração do AxSync

@@ -21,10 +21,10 @@ Este evento ocorre sempre que um novo lote de importação de passagens, infraç
 Este evento ocorre sempre que uma nova passagem chega ao AxHub. Especificamente para este evento de passagem, todas elas são disparadas, seja com ou sem imagens.
 
 **2 - Passagem com Imagem:** 
-Este evento se limita a uso interno da Axion, pois não é enviada a imagem em Base64, mas somente o caminho da imagem no storage para integração interna entre nossos sistemas internos. Ocorre sempre que uma nova passagem chega ao AxHub e é disparado somente para passagens com imagens.
+Este evento se limita a uso interno da Axion, pois não é enviada a imagem em Base64, mas somente o caminho da imagem no storage para integração interna entre nossos sistemas internos. Ocorre sempre que uma nova passagem chega ao AxHub sendo disparado somente para passagens com imagens.
 
 **3 - Passagem com Imagem Base64:**
-Este evento é para integração com sistemas externos, pois a imagem é enviada no corpo da mensagem em Base64. Ocorre sempre que uma nova passagem chega ao AxHub e é disparado somente para passagens com imagens.
+Este evento é para integração com sistemas externos, pois a imagem é enviada no corpo da mensagem em Base64. Ocorre sempre que uma nova passagem chega ao AxHub sendo disparado somente para passagens com imagens.
 
 **4 - Infração:**
 É disparado sempre que uma nova infração chega ao AxHub.
