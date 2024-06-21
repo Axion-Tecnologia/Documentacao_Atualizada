@@ -1,6 +1,6 @@
 # 📚 Documentação Axion
 
-Bem-vindo à documentação da [Axion Tecnologia](https://viniciuscm09.github.io/Documentacao_Atualizada). Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
+Bem-vindo à documentação da [Axion Tecnologia](https://axion-tecnologia.github.io/Documentacao_Atualizada) a Este repositório contém a documentação do projeto Axion, gerada e publicada usando [Writerside](https://www.jetbrains.com/writerside/).
 
 ## ⚙️ Passo a Passo
 
@@ -30,11 +30,6 @@ git add .github/workflows/build-docs.yml
 git commit -m "Add GitHub Actions workflow to build and deploy documentation"
 git push origin main
 ```
-
-Feito com ❤️ por [Vinicius](https://github.com/viniciuscm09)
-
----
-
 ### Notas adicionais:
 
 1. **Links úteis:**
