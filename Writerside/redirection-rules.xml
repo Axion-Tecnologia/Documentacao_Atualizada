@@ -131,4 +131,8 @@
         <description>Created after removal of "Configuração" from Axion</description>
         <accepts>Configuração.html</accepts>
     </rule>
+    <rule id="d63bff9">
+        <description>Created after removal of "Heartbeat" from Axion</description>
+        <accepts>Heartbeath.html</accepts>
+    </rule>
 </rules>
