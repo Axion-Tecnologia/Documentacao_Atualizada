@@ -14,7 +14,7 @@ Na pasta "Axion.AxSync", coloque os seguintes arquivos necessários para o funci
 - `app.exe` (ou qualquer outro nome que o aplicativo tenha)
 - `setting.json`
 - `axion.services`
-- 'sqlite' (ou quaisquer outros arquivos necessários)
+- `sqlite` (ou quaisquer outros arquivos necessários)
 
 ### Trocar Nome do Equipamento no JSON
 Para trocar o nome do equipamento no arquivo JSON, siga estas etapas:

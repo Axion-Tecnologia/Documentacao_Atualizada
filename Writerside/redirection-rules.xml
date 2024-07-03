@@ -135,4 +135,8 @@
         <description>Created after removal of "Heartbeat" from Axion</description>
         <accepts>Heartbeath.html</accepts>
     </rule>
+    <rule id="51fdfd54">
+        <description>Created after removal of "Mapa Ao Vivo" from Axion</description>
+        <accepts>Monitoramento-Online.html</accepts>
+    </rule>
 </rules>

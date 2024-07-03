@@ -1,4 +1,4 @@
-# Diagrama
+# Diagrama de Configurações
 
 Este tipo de diagrama é muito útil para entender as principais funcionalidades do sistema, identificar os atores envolvidos e suas interações, e comunicar de forma clara e concisa os requisitos funcionais do sistema para os diferentes stakeholders envolvidos no projeto.
 
@@ -6,7 +6,6 @@ Este tipo de diagrama é muito útil para entender as principais funcionalidades
 <code-block lang="plantuml">
 @startuml
 skinparam rectangle {
-    BackgroundColor LightSkyBlue
     BorderColor DarkBlue
     RoundCorner 15
 }
@@ -41,6 +40,16 @@ newpage
 
 @startuml
 skinparam packageStyle rectangle
+skinparam rectangle {
+BorderColor DarkBlue
+RoundCorner 15
+}
+
+skinparam usecase {
+BackgroundColor LightYellow
+BorderColor DarkGoldenRod
+RoundCorner 15
+}
 
 
 left to right direction

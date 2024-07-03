@@ -1,4 +1,4 @@
-# Monitoramento de Equipamentos
+# Equipamentos
 
 ## Introdução
 
