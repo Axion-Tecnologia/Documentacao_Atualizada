@@ -1,8 +1,12 @@
+Aqui está uma versão aprimorada da sua documentação para o AxManager, com foco em clareza, estrutura e detalhamento:
+
+---
+
 # AXMANAGER
 
 ## Introdução
 
-O AxManager é um sistema avançado para o monitoramento, gestão e configuração de equipamentos de tráfego. Ele proporciona um ambiente centralizado para o cadastro e gerenciamento de dispositivos, faixas de tráfego, contratos e muito mais. Este documento oferece um guia detalhado sobre as funcionalidades do AxManager, facilitando a operação e a configuração do sistema.
+O AxManager é uma plataforma para monitoramento de equipamentos, oferecendo informações detalhadas sobre suas operações e contratos associados. Este guia detalha o processo de cadastro de operações, contratos e equipamentos, bem como funcionalidades de integração e alertas.
 
 ## Cadastros de Operação
 
@@ -10,67 +14,65 @@ O AxManager é um sistema avançado para o monitoramento, gestão e configuraç�
 
 **Descrição:** Permite registrar novos dispositivos de tráfego no sistema.
 
-**Campos:** Tipo, modelo, fabricante.
-
-**Funcionalidades:** Adicionar e gerenciar equipamentos de tráfego.
+- **Campos:** Tipo, Modelo, Fabricante
+- **Funcionalidades:** Adicionar e gerenciar equipamentos de tráfego.
 
 ### Cadastro de Faixa
 
 **Descrição:** Cadastra faixas de tráfego associadas a cada equipamento.
 
-**Funcionalidades:** Definir configurações específicas de cada faixa.
-
-**Campos:** Código da faixa, número da faixa, logradouro, complemento, número do endereço, bairro, cidade, estado.
+- **Campos:** Código da Faixa, Número da Faixa, Logradouro, Complemento, Número do Endereço, Bairro, Cidade, Estado
+- **Funcionalidades:** Definir configurações específicas de cada faixa.
 
 ### Grupo de Equipamento
 
 **Descrição:** Agrupa equipamentos relacionados para facilitar o gerenciamento.
 
-**Funcionalidades:** Organizar dispositivos em conjuntos lógicos.
+- **Funcionalidades:** Organizar dispositivos em conjuntos lógicos para melhor controle.
 
 ### Tipos de Equipamento
 
-**Descrição:** Define os tipos de equipamentos disponíveis no sistema.
+**Descrição:** Define as categorias de equipamentos disponíveis no sistema.
 
-**Funcionalidades:** Categorização e organização dos dispositivos.
+- **Funcionalidades:** Categorização e organização dos dispositivos.
 
 ### Modelo de Equipamento
 
-**Descrição:** Define modelos de equipamentos, agrupando-os para facilitar o gerenciamento.
+**Descrição:** Define e agrupa modelos de equipamentos para facilitar o gerenciamento.
 
-**Funcionalidades:** Organização e identificação dos dispositivos.
+- **Funcionalidades:** Organização e identificação dos dispositivos.
 
 ### Fabricante
 
-**Descrição:** Registra os fabricantes dos equipamentos.
+**Descrição:** Registra informações sobre os fabricantes dos equipamentos.
 
-**Funcionalidades:** Informações sobre as empresas responsáveis pela produção.
+- **Funcionalidades:** Detalhamento das empresas responsáveis pela produção dos dispositivos.
 
 ### Cadastro de Faixa de Equipamentos
 
-**Descrição:** Define faixas relacionadas a cada equipamento.
+**Descrição:** Define faixas relacionadas a cada equipamento específico.
 
-**Funcionalidades:** Configuração individualizada de cada faixa.
+- **Funcionalidades:** Configuração individualizada para otimização do gerenciamento de faixas.
 
 ## Cadastro de Contrato
 
 ### Cadastramento de Empresa
 
-**Descrição:** Cadastra empresas relacionadas aos contratos de gerenciamento de equipamentos.
+**Descrição:** Registra empresas que gerenciam ou fornecem equipamentos.
 
-**Funcionalidades:** Registro e gerenciamento de informações das empresas contratadas.
+- **Funcionalidades:** Gerenciamento de informações das empresas contratadas.
 
 ### Cadastramento de Órgão
 
-**Descrição:** Cadastra órgãos públicos ou entidades responsáveis pelos contratos.
+**Descrição:** Registra órgãos públicos ou entidades responsáveis pela gestão dos contratos.
 
-**Funcionalidades:** Registro e gerenciamento de informações dos órgãos responsáveis.
+- **Funcionalidades:** Detalhamento e gerenciamento de informações dos órgãos responsáveis.
 
 ### Cadastro de Configuração de Contrato
 
-**Descrição:** Configura detalhes de cada contrato, como exibição de imagens dos equipamentos associados.
+**Descrição:** Detalha e personaliza as configurações contratuais, incluindo a exibição de imagens dos equipamentos associados.
 
-**Funcionalidades:** Detalhamento e personalização das configurações contratuais.
+- **Funcionalidades:** Customização de parâmetros contratuais para melhor adequação às necessidades do cliente.
 
 ## Integração com Azure
 
@@ -78,48 +80,49 @@ O AxManager é um sistema avançado para o monitoramento, gestão e configuraç�
 
 **Descrição:** Define a chave de conta do Azure para integração com serviços de armazenamento em nuvem.
 
-**Funcionalidades:** Autenticação e configuração para integração com Azure.
+- **Funcionalidades:** Autenticação e configuração para integração com Azure.
 
 ### URL Storage: API
 
 **Descrição:** Configura a URL de armazenamento para a API de integração com o serviço em nuvem.
 
-**Funcionalidades:** Conexão e configuração do armazenamento em nuvem.
+- **Funcionalidades:** Conexão e configuração do armazenamento em nuvem.
 
 ## Importação de Equipamentos
 
-**Descrição:** Permite a importação em massa de equipamentos por uma planilha.
+**Descrição:** Permite a importação em massa de equipamentos através de uma planilha.
 
-**Funcionalidades:** Facilita a inclusão de múltiplos equipamentos de forma eficiente.
+- **Funcionalidades:** Facilita a inclusão de múltiplos equipamentos de forma eficiente e organizada.
 
 ## Mapa de Operação
 
 ### Busca de Equipamento por Código
 
-**Descrição:** Facilita a localização rápida de um equipamento através de sua identificação única de código.
+**Descrição:** Facilita a localização rápida de um equipamento através de sua identificação única.
 
-**Funcionalidades:** Pesquisa e localização eficiente de equipamentos no mapa de operação.
+- **Funcionalidades:** Pesquisa e localização eficiente de equipamentos no sistema.
 
 ### Equipamentos Offline
 
-**Descrição:** Lista os equipamentos offline para gerenciamento rápido e eficaz.
+**Descrição:** Lista equipamentos que estão offline para um gerenciamento rápido e eficaz.
 
-**Funcionalidades:** Identificação e resolução de problemas de conectividade dos equipamentos.
+- **Funcionalidades:** Identificação e resolução de problemas de conectividade dos equipamentos.
 
 ### Busca por Contrato
 
-**Descrição:** Permite a busca de equipamentos com base nos contratos estabelecidos.
+**Descrição:** Permite a busca de equipamentos com base nos contratos associados.
 
-**Funcionalidades:** Organização e filtragem de equipamentos por contrato.
+- **Funcionalidades:** Organização e filtragem de equipamentos por contrato para uma visão gerencial mais clara.
 
 ## Cadastro de Alerta
 
 **Descrição:** Configura regras específicas para acionar alertas com base em condições pré-definidas.
 
-**Funcionalidades:** Personalização de condições e critérios para alertas.
+**Funcionalidades:** Personalização de critérios e condições para alertas, ajudando na prevenção e resolução de problemas.
 
 ### Integração com Canais de Notificação
 
-**Descrição:** Oferece suporte para notificações via Telegram e notificação no navegador.
+**Descrição:** Oferece suporte para notificações via Telegram e navegador.
 
-**Funcionalidades:** Configuração e envio de notificações por diferentes canais.
+**Funcionalidades:** Configuração e envio de notificações por diferentes canais para alertar sobre eventos importantes.
+

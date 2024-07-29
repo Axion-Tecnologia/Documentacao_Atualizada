@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Ativos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/AxManage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/AxManage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,24 +85,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vinic/Documentacao_Atualizada",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -136,7 +143,20 @@
       <workItem from="1718972281312" duration="2772000" />
       <workItem from="1719235006274" duration="43000" />
       <workItem from="1719576343591" duration="1273000" />
-      <workItem from="1720013524166" duration="1685000" />
+      <workItem from="1720013524166" duration="4103000" />
+      <workItem from="1720097259101" duration="1784000" />
+      <workItem from="1720442206015" duration="488000" />
+      <workItem from="1720442710281" duration="29000" />
+      <workItem from="1720444240654" duration="2554000" />
+      <workItem from="1720542951560" duration="4000" />
+      <workItem from="1720543961671" duration="55000" />
+      <workItem from="1720619303754" duration="3000" />
+      <workItem from="1720621456099" duration="13000" />
+      <workItem from="1720706034732" duration="62000" />
+      <workItem from="1720793149835" duration="142000" />
+      <workItem from="1721398952479" duration="34000" />
+      <workItem from="1721834430308" duration="2000" />
+      <workItem from="1721914367056" duration="5832000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -226,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720014612355</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1720017012257</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720017012257</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,24 +263,17 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN" />
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolve conflitos após pull" />
     <option name="LAST_COMMIT_MESSAGE" value="Resolve conflitos após pull" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

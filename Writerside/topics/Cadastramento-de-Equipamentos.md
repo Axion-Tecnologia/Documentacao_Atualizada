@@ -1,22 +1,26 @@
+
+
 # Equipamentos
 
 ## Introdução
 
-O AxManager é um sistema desenvolvido para monitorar o status de diversos equipamentos, fornecendo informações detalhadas sobre suas operações e contratos associados. A seguir, detalhamos o processo de cadastramento de operações, contratos, e equipamentos no sistema.
+O AxManager é um sistema desenvolvido para monitorar o status de diversos equipamentos, fornecendo informações detalhadas sobre suas operações e contratos associados. Este guia detalha o processo de cadastramento de operações, contratos e equipamentos no sistema.
 
-## Cadastramento da Operação
+## Cadastramento de Operações
 
-Para cadastrar os contratos, é necessário cadastrar primeiro o Grupo de Equipamentos na seção "Equipamentos".
+### Passo 1: Cadastro do Grupo de Equipamentos
+
+Antes de cadastrar contratos, é necessário registrar o Grupo de Equipamentos na seção Equipamentos.
 
 ![GrupodeEquipamento.png](GrupodeEquipamento.png)
 
-### Órgão
+### Passo 2: Cadastro do Órgão
 
 Um Órgão refere-se à entidade governamental ou institucional responsável por gerir os contratos.
 
 - **Nome:** DEPARTAMENTO ESTADUAL DE INFRAESTRUTURA RODOVIÁRIA
 
-### Empresa
+### Passo 3: Cadastro da Empresa
 
 A Empresa é a entidade contratada pelo Órgão para fornecer ou gerir os equipamentos.
 
@@ -26,9 +30,9 @@ A Empresa é a entidade contratada pelo Órgão para fornecer ou gerir os equipa
 - **Estado:** [Estado]
 - **Endereço:** [Endereço]
 - **Telefone:** [Telefone]
-- **CEP:** 49085-380
+- **CEP:** [CEP]
 
-### Contrato
+### Passo 4: Cadastro do Contrato
 
 O Contrato é o acordo formal entre a Empresa e o Órgão, definindo os termos de fornecimento e gestão dos equipamentos.
 
@@ -39,21 +43,21 @@ O Contrato é o acordo formal entre a Empresa e o Órgão, definindo os termos d
 - **Data de Término:** [Data de Término]
 - **Grupos de Equipamentos:** [Grupos de Equipamentos]
 
-### Configuração do Contrato
+### Passo 5: Configuração do Contrato
 
 A Configuração do Contrato refere-se às especificações técnicas e administrativas necessárias para o gerenciamento do contrato no AxManager.
 
 - **Nome da Conta:** [Nome da Conta]
 - **Chave da Conta:** [Chave da Conta]
-- **URL Storage:** [URL de Armazenamento]
+- **URL de Armazenamento:** [URL de Armazenamento]
 - **Contrato:** [Nome do Contrato]
 - **Usar Azure Local:** [Sim/Não]
 
-## Equipamento
+## Cadastro de Equipamento
 
-Equipamento é o hardware específico que será monitorado pelo AxManager. O cadastramento de um novo equipamento envolve definir seu fabricante, modelo e tipo.
+O cadastro de um novo equipamento envolve a definição de seu fabricante, modelo e tipo.
 
-### Fabricantes
+### Passo 1: Cadastro de Fabricantes
 
 Os Fabricantes são as empresas que produzem os equipamentos.
 
@@ -62,7 +66,7 @@ Os Fabricantes são as empresas que produzem os equipamentos.
 - **Slug:** [Slug]
 - **Agrupador Sequencial:** [Agrupador Sequencial]
 
-### Modelo
+### Passo 2: Cadastro de Modelos
 
 O Modelo é a especificação particular de um equipamento fornecido por um fabricante.
 
@@ -70,9 +74,9 @@ O Modelo é a especificação particular de um equipamento fornecido por um fabr
 - **Modelo:** [Modelo]
 - **Portaria:** [Portaria]
 - **Número da Portaria:** [Número da Portaria]
-- **Fabricante de Equipamento:** [Nome do Fabricante]
+- **Fabricante:** [Nome do Fabricante]
 
-### Tipo
+### Passo 3: Cadastro de Tipos
 
 O Tipo refere-se à categoria do equipamento.
 
@@ -80,15 +84,17 @@ O Tipo refere-se à categoria do equipamento.
 
 ## Operações
 
-Operações são as atividades específicas realizadas com os equipamentos ao longo do tempo.
+As operações são as atividades específicas realizadas com os equipamentos ao longo do tempo.
 
-- **Novo Operação:** [Nome da Operação]
+- **Nome da Operação:** [Nome da Operação]
 - **Código:** [Código da Operação]
 - **Data de Início:** [Data de Início]
 - **Data de Fim:** [Data de Fim]
 - **Data de Aceite:** [Data de Aceite]
 - **Data de Homologação:** [Data de Homologação]
 - **Data de Instalação:** [Data de Instalação]
-- **Selecione o Grupo:** [Seleção do Grupo]
+- **Grupo de Equipamentos:** [Seleção do Grupo]
 
 ---
+
+Essa estrutura aprimorada da documentação inclui passos claros e detalhados para cada parte do processo de cadastramento, facilitando a navegação e a aplicação das instruções.
