@@ -95,6 +95,3 @@ As operações são as atividades específicas realizadas com os equipamentos ao
 - **Data de Instalação:** [Data de Instalação]
 - **Grupo de Equipamentos:** [Seleção do Grupo]
 
----
-
-Essa estrutura aprimorada da documentação inclui passos claros e detalhados para cada parte do processo de cadastramento, facilitando a navegação e a aplicação das instruções.

@@ -53,6 +53,3 @@ A aba de Ativos no AxManager permite o registro detalhado de equipamentos e seus
 2. **Exportação de Dados**
     - Os dados dos ativos podem ser exportados para Excel clicando no botão **Excel**.
 
----
-
-Essa documentação fornece um guia detalhado para o processo de cadastro de equipamentos e ativos no AxManager, incluindo passos específicos e campos necessários para garantir um registro completo e preciso.
