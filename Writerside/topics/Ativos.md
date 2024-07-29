@@ -1,6 +1,5 @@
 Aqui está uma documentação aprimorada para a aba de ativos no sistema AxManager:
 
----
 
 # Cadastro de Ativos
 
@@ -45,11 +44,4 @@ A aba de Ativos no AxManager permite o registro detalhado de equipamentos e seus
 4. **Salvar o Ativo**
     - Após preencher os detalhes do ativo, clique em **Salvar** para registrar as informações no sistema.
 
-### Passo 3: Gerenciamento de Ativos
-
-1. **Edição e Exclusão de Ativos**
-    - Os ativos cadastrados podem ser editados ou excluídos através das opções disponíveis na coluna de ação (ícones de lápis para editar e de lixeira para excluir).
-
-2. **Exportação de Dados**
-    - Os dados dos ativos podem ser exportados para Excel clicando no botão **Excel**.
-
+### Adicionando Ativos 

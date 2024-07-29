@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Ativos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/AxManage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/AxManage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Ativos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Ativos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,9 @@
     &quot;accountId&quot;: &quot;6acf0710-33c2-48c5-a2ae-81d34ceb9624&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Writerside/topics/Ativos.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="InstanceColorv3">
     <option name="map">
       <map>
@@ -156,7 +156,7 @@
       <workItem from="1720793149835" duration="142000" />
       <workItem from="1721398952479" duration="34000" />
       <workItem from="1721834430308" duration="2000" />
-      <workItem from="1721914367056" duration="5832000" />
+      <workItem from="1721914367056" duration="7814000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -254,7 +254,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720017012257</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722277592262</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277592262</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722277669807</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277669807</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
