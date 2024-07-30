@@ -139,4 +139,12 @@
         <description>Created after removal of "Mapa Ao Vivo" from Axion</description>
         <accepts>Monitoramento-Online.html</accepts>
     </rule>
+    <rule id="4c03124">
+        <description>Created after removal of "Veículo Monitorados" from Axion</description>
+        <accepts>Veículo-Monitorados.html</accepts>
+    </rule>
+    <rule id="45fe9f4d">
+        <description>Created after removal of "Guia de Configuração e Operação" from Axion</description>
+        <accepts>Configuração-de-Operação.html</accepts>
+    </rule>
 </rules>

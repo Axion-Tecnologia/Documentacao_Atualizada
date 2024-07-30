@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Alertas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Balança.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configurações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Contrato.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Controle-de-Acesso.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cronotacógrafo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Infrações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-ao-Vivo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-de-Operações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Medição.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Monitoramento-Online.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Operações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axhub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axhub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +178,7 @@
       <workItem from="1721834430308" duration="2000" />
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
-      <workItem from="1722339992479" duration="5080000" />
+      <workItem from="1722339992479" duration="6764000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -309,7 +332,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722347012246</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722347160208</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722347160208</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722347346518</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722347346518</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
