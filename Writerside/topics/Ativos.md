@@ -1,4 +1,4 @@
-Aqui está uma documentação aprimorada para a aba de ativos no sistema AxManager:
+Aqui está uma documentação aprimorada para a aba de ativos no sistema AxManager
 
 
 # Cadastro de Componentes
@@ -34,10 +34,10 @@ A aba de Componentes no AxManager permite o registro detalhado de equipamentos e
    **Campos detalhados:**
     - **Nome:** Nome do Componentes.
     - **Código:** Código único para identificação do componente.
-    - **Descrição:** Descrição detalhada do Componentes.
+    - **Descrição:** Descrição detalhada do componente.
     - **Grupo de Ativos:** Categoria ou agrupamento ao qual o Componentes pertence.
     - **Data de Entrada:** Data em que o ativo foi registrado no sistema.
-    - **Data de Fabricação:** Data de fabricação do Componentes.
+    - **Data de Fabricação:** Data de fabricação do componente.
     - **SKU:** Código de identificação do produto.
     - **Status:** Estado atual do ativo (ex: operacional, em manutenção).
 
