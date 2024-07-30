@@ -33,7 +33,7 @@ A aba de Componentes no AxManager permite o registro detalhado de equipamentos e
 
    **Campos detalhados:**
     - **Nome:** Nome do Componentes.
-    - **Código:** Código único para identificação do Componentes.
+    - **Código:** Código único para identificação do componente.
     - **Descrição:** Descrição detalhada do Componentes.
     - **Grupo de Ativos:** Categoria ou agrupamento ao qual o Componentes pertence.
     - **Data de Entrada:** Data em que o ativo foi registrado no sistema.
