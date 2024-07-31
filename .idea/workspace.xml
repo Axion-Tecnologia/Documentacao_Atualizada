@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Auditoria.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Consulta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Exceções.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Exportaçã.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/triagem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +85,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2hPtwVNFIdTrXAa8Ryjnz83cei6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -156,7 +166,7 @@
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
       <workItem from="1722339992479" duration="15324000" />
-      <workItem from="1722426026513" duration="7718000" />
+      <workItem from="1722426026513" duration="9485000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -358,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722437674528</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722437796785</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1722437796785</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
