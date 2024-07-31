@@ -24,14 +24,6 @@
         <toc-element topic="Equipamentos.md"/>
         <toc-element topic="Monitoramento-Online.md"/>
         <toc-element topic="Relatorios.md"/>
-        <toc-element topic="Diagrama-de-caso-de-uso.md"/>
-    </toc-element>
-    <toc-element topic="Axton.md">
-        <toc-element topic="Passo-a-Passo.md"/>
-        <toc-element topic="Pesagem.md">
-        </toc-element>
-        <toc-element topic="Exportação.md"/>
-        <toc-element topic="BTN.md"/>
     </toc-element>
     <toc-element topic="AxManage.md">
         <toc-element topic="Cadastramento-de-Equipamentos.md">
@@ -47,6 +39,12 @@
         </toc-element>
         <toc-element topic="Configurações.md"/>
         <toc-element topic="Alertas.md"/>
+    </toc-element>
+    <toc-element topic="Axton.md">
+        <toc-element topic="Passo-a-Passo.md"/>
+        <toc-element topic="Pesagem.md"/>
+        <toc-element topic="Exportação.md"/>
+        <toc-element topic="BTN.md"/>
     </toc-element>
     <toc-element topic="Passo-a-Passo-Configuração-AxSync.md"/>
 </instance-profile>

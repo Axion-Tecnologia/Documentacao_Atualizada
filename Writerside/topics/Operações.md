@@ -1,9 +1,5 @@
 # Operações
 
-Aqui está uma documentação detalhada para a funcionalidade de "Nova Operação" no Axmanager, conforme a imagem fornecida:
-
-
-
 ### Visão Geral
 A funcionalidade "Nova Operação" no Axmanager permite a criação e gestão de operações associadas a equipamentos, com detalhes sobre datas importantes, grupos envolvidos e equipamentos associados.
 

@@ -147,4 +147,8 @@
         <description>Created after removal of "Guia de Configuração e Operação" from Axion</description>
         <accepts>Configuração-de-Operação.html</accepts>
     </rule>
+    <rule id="4e8bb574">
+        <description>Created after removal of "Diagrama de Caso de Uso" from Axion</description>
+        <accepts>Diagrama-de-caso-de-uso.html</accepts>
+    </rule>
 </rules>

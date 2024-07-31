@@ -1,5 +1,3 @@
-Aqui está uma documentação aprimorada para a aba de ativos no sistema AxManager
-
 
 # Cadastro de Componentes
 

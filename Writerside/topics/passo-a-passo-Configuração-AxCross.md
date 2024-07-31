@@ -1,63 +1,46 @@
-# Veiculos Monitorados
 
-Este guia detalha os procedimentos necessários para criar e configurar um veículo monitorado em conjunto com alerta de ocorrências específicas. Abaixo estão os passos divididos em seções para facilitar a compreensão e execução:
+# Veículos Monitorados
 
-## Criação de Tipo de Ocorrência
-
-Para começar, é necessário definir os tipos de ocorrência que podem ser associados aos veículos monitorados. Siga as instruções abaixo:
-
-### Novo Tipo de Ocorrência:
-- Crie um código único para identificar o tipo de ocorrência.
-- Especifique um nome descritivo para o tipo de ocorrência.
-- Escolha uma cor para visualização e diferenciação.
-- Habilite a opção de emitir alerta sonoro, se necessário.
-
-## Criação de Veículo Monitorado
-
-Após definir os tipos de ocorrência, é hora de criar o veículo monitorado e associá-lo a um tipo de ocorrência. Siga os passos abaixo:
-
-### Novo Veículo Monitorado:
-- Insira a placa do veículo que será monitorado.
-- Selecione o tipo de ocorrência associado ao veículo.
+### Visão Geral
+O módulo de **Relatórios** do AxCross é uma ferramenta essencial para o monitoramento e análise detalhada de dados de tráfego e veículos. Ele oferece insights críticos para a gestão de infraestruturas de tráfego, permitindo aos administradores tomar decisões informadas com base em dados precisos e em tempo real.
 
 
-### Criação de Equipamento:
-- Atribua um código único ao equipamento.
-- Insira o número de série do equipamento.
-- Especifique a latitude e longitude da localização do equipamento.
-- Escolha se o equipamento está habilitado ou desabilitado.
+#### 1. Veículos Monitorados
+- **Descrição**: A seção de **Veículos Monitorados** fornece uma visão abrangente dos veículos registrados no sistema. Isso inclui veículos em monitoramento ativo e aqueles que têm ocorrências específicas associadas.
+- **Funcionalidades**:
+    - **Adicionar Veículo Monitorado**:
+        - **Placa do Veículo**: Campo de texto obrigatório para inserir a placa do veículo. Este é o identificador principal do veículo no sistema.
+        - **Habilitado**: Checkbox para ativar ou desativar o monitoramento do veículo. Isso é útil para suspender temporariamente o monitoramento sem remover o veículo do sistema.
+        - **Tipo de Ocorrência**: Menu suspenso para selecionar o tipo de ocorrência relacionado ao veículo, como excesso de velocidade, entrada não autorizada, etc. Esta classificação ajuda a filtrar e analisar dados por tipo de evento.
 
-## Configuração de Faixas
+#### 2. Tipos de Ocorrências
+- **Descrição**: Esta funcionalidade permite a criação e personalização dos tipos de ocorrências que o sistema deve monitorar. Isso inclui a configuração de novos tipos de eventos e a edição dos existentes.
+- **Funcionalidades**:
+    - **Adicionar Tipo de Ocorrência**:
+        - **Código**: Campo obrigatório para um identificador único do tipo de ocorrência. Isso facilita a referência e a filtragem de ocorrências nos relatórios.
+        - **Nome**: Nome descritivo que identifica claramente o tipo de ocorrência. Isso é exibido em relatórios e alertas.
+        - **Cor**: Seleção de cor para a visualização de ocorrências nos gráficos e dashboards. As cores ajudam a diferenciar visualmente os tipos de ocorrência.
+        - **Emitir Alerta Sonoro**: Checkbox para definir se um alerta sonoro deve ser emitido quando essa ocorrência é registrada, alertando operadores em tempo real sobre eventos críticos.
 
-Para delimitar áreas específicas de monitoramento, é necessário criar faixas geográficas. Siga os passos abaixo:
+#### 3. Alertas
+- **Descrição**: O sistema de alertas é projetado para notificar os usuários sobre eventos importantes ou anomalias detectadas. Isso inclui a configuração de alertas baseados em tipos de ocorrências específicas.
+- **Funcionalidades**:
+    - **Configurar Alerta**:
+        - **Nome**: Campo obrigatório para o nome do alerta, usado para identificação e gestão dos alertas.
+        - **Desabilitar**: Opção para desativar o alerta temporariamente, sem excluí-lo. Isso é útil durante períodos de manutenção ou ajustes.
+        - **Tipo de Ocorrência**: Seleção do tipo de ocorrência que aciona o alerta. Permite focar em eventos específicos.
+        - **Tipo de Notificação**: Escolha do método de notificação (por exemplo, Email, SMS, notificações in-app), permitindo personalizar como os alertas são entregues.
+        - **Destinatário**: Definição de quem receberá o alerta. Pode incluir múltiplos destinatários, como equipes de segurança ou gerentes de tráfego.
+        - **Equipamentos**: Seleção de equipamentos específicos associados ao alerta, permitindo monitorar e responder a eventos em dispositivos ou locais específicos.
 
-### Criação de Faixas:
-- Atribua um código único à faixa.
-- Especifique o número da faixa para identificação.
-- Insira o logradouro, complemento, número do endereço, bairro, cidade e estado para definir a localização da faixa.
+#### 4. Classificações de Veículos
+- **Descrição**: Esta seção permite a classificação de veículos em diferentes categorias, como automóveis, caminhões, ônibus, etc. Isso ajuda a organizar os dados e facilita a análise específica por tipo de veículo.
+- **Funcionalidades**:
+    - **Adicionar Classificação de Veículo**:
+        - **Nome**: Campo obrigatório para o nome da classificação, que será usado para identificar e agrupar veículos no sistema.
 
-## Configuração de Alerta
-
-Para receber notificações sobre ocorrências específicas, configure os alerta conforme necessário. Siga as instruções abaixo:
-
-### Criação de Alerta:
-- Escolha um nome descritivo para o alerta.
-- Selecione a placa do veículo monitorado associado ao alerta.
-- Escolha o tipo de ocorrência que acionará o alerta.
-- Configure o tipo de notificação desejado (por exemplo, Telegram, Email).
-- Especifique os destinatários do alerta.
-- Defina as ações a serem tomadas em resposta ao alerta.
-
-## Relatório de Passagens
-
-Por fim, configure e personalize os relatórios de passagens conforme necessário. Siga as instruções abaixo:
-
-### Classificação:
-- Crie uma classificação personalizada para as passagens registradas.
-
-### Equipamento:
-- Crie e configure o equipamento para rastreamento e registro das passagens.
-
-### Faixa:
-- Crie faixas geográficas para delimitar áreas específicas de interesse para o relatório.
+### Considerações Finais
+- **Personalização**: O AxCross permite uma personalização robusta para se adaptar às necessidades específicas de diferentes usuários e cenários. Isso inclui a personalização de tipos de ocorrência, alertas e classificações de veículos.
+- **Escalabilidade e Integração**: O sistema é escalável e pode ser integrado com outros sistemas e sensores, aumentando sua utilidade em ambientes complexos de tráfego e infraestrutura.
+- **Segurança e Conformidade**: As funcionalidades de monitoramento e alertas são desenhadas para cumprir com normas de segurança e privacidade, assegurando que os dados sejam usados de maneira ética e protegida.
 

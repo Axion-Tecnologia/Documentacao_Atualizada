@@ -1,5 +1,3 @@
-Para criar a documentação da funcionalidade "Importação de Equipamentos" mostrada na imagem, podemos seguir um formato semelhante ao abaixo:
-
 
 
 # Importação de Equipamentos

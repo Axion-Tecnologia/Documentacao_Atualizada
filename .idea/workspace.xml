@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Alertas.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Alertas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Ativos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Ativos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/AxManage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/AxManage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axcross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axcross.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configurações.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Contrato.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Contrato.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Mapa-ao-Vivo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-ao-Vivo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Mapa-de-Operações.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-de-Operações.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Monitoramento-Online.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Monitoramento-Online.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Operações.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Operações.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +175,7 @@
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
       <workItem from="1722339992479" duration="15324000" />
-      <workItem from="1722426026513" duration="2464000" />
+      <workItem from="1722426026513" duration="7404000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -342,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722429345373</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722431910309</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722431910309</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

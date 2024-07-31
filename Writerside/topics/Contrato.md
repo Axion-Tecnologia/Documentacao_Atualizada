@@ -1,8 +1,5 @@
 # Contrato
 
-Aqui está uma documentação detalhada para as funcionalidades exibidas nas imagens fornecidas:
-
-
 ## Visão Geral 
 A funcionalidade "Novo Contrato" permite aos usuários registrar e gerenciar contratos de maneira eficiente, incluindo informações essenciais como nome do contrato, empresa associada, órgão responsável, e datas de vigência.
 
