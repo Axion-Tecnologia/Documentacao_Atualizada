@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Alertas.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Balança.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configurações.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Contrato.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Controle-de-Acesso.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cronotacógrafo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Infrações.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-ao-Vivo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Mapa-de-Operações.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Medição.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Monitoramento-Online.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Operações.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axhub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axhub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configuração-de-Operação.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Contrato.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Contrato.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Operações.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Operações.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,25 +88,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vinic/Documentacao_Atualizada",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinic/Documentacao_Atualizada&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -178,7 +161,8 @@
       <workItem from="1721834430308" duration="2000" />
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
-      <workItem from="1722339992479" duration="6764000" />
+      <workItem from="1722339992479" duration="15324000" />
+      <workItem from="1722426026513" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -348,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722347346518</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722348911575</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722348911575</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

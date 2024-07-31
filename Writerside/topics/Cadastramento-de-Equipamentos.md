@@ -1,5 +1,4 @@
 
-
 # Equipamentos
 
 ## Introdução
@@ -81,17 +80,4 @@ O Modelo é a especificação particular de um equipamento fornecido por um fabr
 O Tipo refere-se à categoria do equipamento.
 
 - **Nome:** [Nome do Tipo]
-
-## Operações
-
-As operações são as atividades específicas realizadas com os equipamentos ao longo do tempo.
-
-- **Nome da Operação:** [Nome da Operação]
-- **Código:** [Código da Operação]
-- **Data de Início:** [Data de Início]
-- **Data de Fim:** [Data de Fim]
-- **Data de Aceite:** [Data de Aceite]
-- **Data de Homologação:** [Data de Homologação]
-- **Data de Instalação:** [Data de Instalação]
-- **Grupo de Equipamentos:** [Seleção do Grupo]
 
