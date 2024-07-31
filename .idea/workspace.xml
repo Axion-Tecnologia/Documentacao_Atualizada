@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cadastramento-de-Equipamentos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Contrato.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Contrato.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Importação-de-Equipamento.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Operações.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Operações.md" afterDir="false" />
-    </list>
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +156,7 @@
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
       <workItem from="1722339992479" duration="15324000" />
-      <workItem from="1722426026513" duration="1845000" />
+      <workItem from="1722426026513" duration="2464000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -340,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722348911575</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722429345373</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722429345373</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
