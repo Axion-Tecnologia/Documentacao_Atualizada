@@ -171,4 +171,20 @@
         <description>Created after removal of "OCR" from Axion</description>
         <accepts>OCR.html</accepts>
     </rule>
+    <rule id="730c2831">
+        <description>Created after removal of "Starter" from Axion</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="44790294">
+        <description>Created after removal of "How to" from Axion</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="750b3b62">
+        <description>Created after removal of "Overview" from Axion</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="76155f40">
+        <description>Created after removal of "How to" from Axion</description>
+        <accepts>How-to.html</accepts>
+    </rule>
 </rules>

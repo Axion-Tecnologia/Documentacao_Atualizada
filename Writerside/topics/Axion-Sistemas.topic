@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="COMEÇANDO" id="Axion-Sistemas">
 
-
     <section-starting-page>
-        <title> Axion </title>
-        <description >
-
-            Esta documentação proporciona uma base sólida para organizar e detalhar as funcionalidades e processos dos sistemas.        </description>
+        <title>Axion</title>
+        <description>
+            Esta documentação proporciona uma base sólida para organizar e detalhar as funcionalidades e processos dos sistemas Axion.
+        </description>
 
         <spotlight>
             <a href="" type="development" summary="Descubra tudo sobre as funcionalidades dos Sistemas">
                 Começando
             </a>
-
-            <a href="Contratos.md" type="community" summary="Descubra Todos os Contratos da Axion Tecnologia"> Contratos </a>
-
+            <a href="Contratos.md" type="community" summary="Descubra Todos os Contratos da Axion Tecnologia">
+                Contratos
+            </a>
         </spotlight>
 
         <primary>
-            <title>Nossos Sistemas </title>
-            <a href="Axhub.md" type="presentation" ignore-vars="false" summary="Um sistema abrangente projetado para operadores de tráfego e autoridades de trânsito, focado na gestão e monitoramento de vias, detecção de infrações e a análise do fluxo de veículos.">AXHUB</a>
-            <a href="AxManage.md" type="presentation" summary="O AxManager é uma plataforma para monitoramento de equipamentos, oferecendo informações detalhadas sobre suas operações e contratos associados. Este guia detalha o processo de cadastro de operações, contratos e equipamentos, bem como funcionalidades de integração e alerta.">AXMANAGER</a>
-            <a href="Axcross.md" type="presentation" summary="Sistema de Monitoramento e gestão de veiculos e equipamentos de tráfego. Ele proporciona funcionalidades avançadas que incluem o acompanhamento em tempo real, análise de dados de tráfego e personalização de configurações, sendo uma ferramenta essencial para autoridades e gestores de tráfego.">AXCROSS</a>
-            <a href="Axton.md" type="presentation" summary="Sistema de pesagem robusto que oferece uma variedade de operações para gerenciar eficientemente o processo de pesagem de veículos. ">AXTON</a>
-            <a href="Axton.md" type="presentation" summary=" ">AXSYNC</a>
-            <a href="Axton.md" type="cross-platform" summary=" ">AXMOBILE</a>
-
-
+            <title>Nossos Sistemas</title>
+            <a href="Axhub.md" type="presentation" summary="Um sistema abrangente projetado para operadores de tráfego e autoridades de trânsito, focado na gestão e monitoramento de vias, detecção de infrações e a análise do fluxo de veículos.">
+                AXHUB
+            </a>
+            <a href="AxManage.md" type="presentation" summary="O AxManager é uma plataforma para monitoramento de equipamentos, oferecendo informações detalhadas sobre suas operações e contratos associados. Este guia detalha o processo de cadastro de operações, contratos e equipamentos, bem como funcionalidades de integração e alerta.">
+                AXMANAGER
+            </a>
+            <a href="Axcross.md" type="presentation" summary="Sistema de Monitoramento e gestão de veículos e equipamentos de tráfego. Ele proporciona funcionalidades avançadas que incluem o acompanhamento em tempo real, análise de dados de tráfego e personalização de configurações, sendo uma ferramenta essencial para autoridades e gestores de tráfego.">
+                AXCROSS
+            </a>
+            <a href="Axton.md" type="presentation" summary="Sistema de pesagem robusto que oferece uma variedade de operações para gerenciar eficientemente o processo de pesagem de veículos.">
+                AXTON
+            </a>
+            <a href="Passo-a-Passo-Configuração-AxSync.md" type="presentation" summary="Sistema de sincronização avançado para garantir a integridade e consistência dos dados.">
+                AXSYNC
+            </a>
+            <a href="" type="cross-platform" summary="Plataforma móvel para gestão e monitoramento de equipamentos e veículos, proporcionando acesso remoto e em tempo real às principais funcionalidades dos sistemas Axion.">
+                AXMOBILE
+            </a>
         </primary>
-
-
-
     </section-starting-page>
 
 </topic>

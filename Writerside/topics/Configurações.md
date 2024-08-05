@@ -19,7 +19,7 @@ O "Controle de Acesso" permite a administração de usuários no sistema, inclui
 
 #### Lista de Usuários
 - **Colunas de Dados**:
-    - **Nome**: Nome do usuário.
+    - **Nome**: nome do usuário.
     - **E-mail**: Endereço de e-mail associado ao usuário.
     - **Telefone**: Número de telefone de contato do usuário.
     - **Ação**: Ícones para editar ou remover o usuário. O ícone de lápis permite editar as informações do usuário, enquanto o ícone de lixeira permite excluir o usuário do sistema.
