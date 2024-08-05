@@ -101,5 +101,7 @@
         <toc-element topic="Configurações.md"/>
         <toc-element topic="Alertas.md"/>
     </toc-element>
-    <toc-element topic="Passo-a-Passo-Configuração-AxSync.md"/>
+    <toc-element topic="Passo-a-Passo-Configuração-AxSync.md">
+        <toc-element topic="OCR.md"/>
+    </toc-element>
 </instance-profile>
