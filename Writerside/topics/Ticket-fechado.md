@@ -1,3 +1,3 @@
-# Triagem
+# Ticket fechado
 
 Start typing here...

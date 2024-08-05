@@ -1,3 +1,3 @@
-# Triagem
+# Equipamentos
 
 Start typing here...

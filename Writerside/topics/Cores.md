@@ -1,3 +1,3 @@
-# Triagem
+# Cores
 
 Start typing here...

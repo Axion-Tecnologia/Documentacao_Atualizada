@@ -1,3 +1,3 @@
-# Triagem
+# Consulta
 
 Start typing here...

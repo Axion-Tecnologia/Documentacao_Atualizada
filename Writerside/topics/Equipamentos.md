@@ -8,10 +8,10 @@ A funcionalidade de **Equipamentos** no AxCross permite a gestão completa de di
 ### Funcionalidades Principais
 
 #### 1. Lista de Equipamentos
-- **Descrição**: Exibe todos os equipamentos cadastrados no sistema, facilitando o acesso e gerenciamento.
+- **Descrição**: exibe todos os equipamentos cadastrados no sistema, facilitando o acesso e gerenciamento.
 - **Elementos da Lista**:
-    - **Código**: Identificador único do equipamento, essencial para a gestão e referência cruzada de dados.
-    - **Ação**: Inclui ícones para editar (lápis) ou remover (lixeira) equipamentos, e ícones adicionais para ações específicas como visualizar o status em tempo real (câmera).
+    - **Código**: identificador único do equipamento, essencial para a gestão e referência cruzada de dados.
+    - **Ação**: inclui ícones para editar (lápis) ou remover (lixeira) equipamentos, e ícones adicionais para ações específicas como visualizar o status em tempo real (câmera).
 
 - **Funcionalidades**:
     - **Barra de Pesquisa**: Permite buscar equipamentos específicos por código ou outros critérios.
@@ -34,17 +34,14 @@ A funcionalidade de **Equipamentos** no AxCross permite a gestão completa de di
 - **Funcionalidades de Áreas**:
     - **Cadastro de Nova Área**:
         - **Nome**: Nome da área, usado para identificar e categorizar os equipamentos.
-        - **Código da Área**: Identificador único para a área, necessário para a organização e referência.
-        - **Cor**: Escolha de uma cor para representar a área, facilitando a visualização em mapas e gráficos.
+        - **Código da Área**: identificador único para a área, necessário para a organização e referência.
+        - **Cor**: escolha de uma cor para representar a área, facilitando a visualização em mapas e gráficos.
 
 - **Ações**:
-    - **Salvar**: Registra a nova área ou alterações no sistema.
-    - **Voltar**: Cancela as alterações e retorna à lista de áreas.
+    - **Salvar**: registra a nova área ou alterações no sistema.
+    - **Voltar**: cancela as alterações e retorna à lista de áreas.
 
 ### Considerações Finais
 - **Organização e Acessibilidade**: A categorização por áreas e o uso de coordenadas geográficas facilitam a gestão logística e operacional dos equipamentos.
 - **Personalização e Manutenção**: O sistema permite ajustes detalhados para cada equipamento, garantindo que os gestores possam manter um alto nível de precisão e controle.
 
----
-
-Essa documentação detalhada cobre as funcionalidades principais da seção de Equipamentos no AxCross, incluindo o gerenciamento de áreas, essencial para uma operação eficiente e organizada. Se precisar de mais informações ou ajustes, estou à disposição para ajudar!

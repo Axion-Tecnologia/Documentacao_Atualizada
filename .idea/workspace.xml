@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/images/7-1721755709-1721755709-100x100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/logo-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Aferições.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Arcos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Axion-Sistemas.topic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Classificações-Veiculos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-de-Enquadramento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Consultaa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Contratoss.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Cores.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Empty-MD-Topic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Enquadramentos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentoss.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Espécie-Veiculo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Eventos-Equipamentos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Fabricantes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Faixa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Grupos-de-Equipamentod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Interrupções.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Liberar-Pesagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Logs-de-Acessos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Marcas-Veiculos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Mediç-eos-Finalizadas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Modelos-Equipamento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Modelos-Veiculos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Monitoramento-Onlinee.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Motvios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Municipio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Nova-Medição.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/OCR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Operaçõess.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Perfil-de-Acesso.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Permissões.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Posto-Pesagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Reclassificar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Recursos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Ticket-Pesagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Ticket-fechado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Equipamentos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Usuarios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/indices-de-Perfomance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Axcross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Axcross.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Contratos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Contratos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/passo-a-passo-Configuração-AxCross.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/triagem.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/triagem.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +150,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -158,7 +209,12 @@
       <workItem from="1721914367056" duration="7814000" />
       <workItem from="1722285418866" duration="34000" />
       <workItem from="1722339992479" duration="15324000" />
-      <workItem from="1722426026513" duration="9784000" />
+      <workItem from="1722426026513" duration="16762000" />
+      <workItem from="1722515529989" duration="3490000" />
+      <workItem from="1722519075100" duration="3435000" />
+      <workItem from="1722522571528" duration="7909000" />
+      <workItem from="1722601814345" duration="2546000" />
+      <workItem from="1722859430241" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -376,7 +432,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722439868436</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722440014515</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440014515</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722440144908</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440144908</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1722440169939</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440169939</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

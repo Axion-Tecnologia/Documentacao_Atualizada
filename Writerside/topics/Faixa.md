@@ -1,3 +1,3 @@
-# Triagem
+# Faixa
 
 Start typing here...

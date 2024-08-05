@@ -14,11 +14,11 @@ O módulo de **Relatórios** do AxCross é uma ferramenta essencial para o monit
         - **Tipo de Ocorrência**: Menu suspenso para selecionar o tipo de ocorrência relacionado ao veículo, como excesso de velocidade, entrada não autorizada, etc. Esta classificação ajuda a filtrar e analisar dados por tipo de evento.
 
 #### 2. Tipos de Ocorrências
-- **Descrição**: Esta funcionalidade permite a criação e personalização dos tipos de ocorrências que o sistema deve monitorar. Isso inclui a configuração de novos tipos de eventos e a edição dos existentes.
+- **Descrição**: esta funcionalidade permite a criação e personalização dos tipos de ocorrências que o sistema deve monitorar. Isso inclui a configuração de novos tipos de eventos e a edição dos existentes.
 - **Funcionalidades**:
     - **Adicionar Tipo de Ocorrência**:
-        - **Código**: Campo obrigatório para um identificador único do tipo de ocorrência. Isso facilita a referência e a filtragem de ocorrências nos relatórios.
-        - **Nome**: Nome descritivo que identifica claramente o tipo de ocorrência. Isso é exibido em relatórios e alertas.
+        - **Código**: campo obrigatório para um identificador único do tipo de ocorrência. Isso facilita a referência e a filtragem de ocorrências nos relatórios.
+        - **Nome**: nome descritivo que identifica claramente o tipo de ocorrência. Isso é exibido em relatórios e alertas.
         - **Cor**: Seleção de cor para a visualização de ocorrências nos gráficos e dashboards. As cores ajudam a diferenciar visualmente os tipos de ocorrência.
         - **Emitir Alerta Sonoro**: Checkbox para definir se um alerta sonoro deve ser emitido quando essa ocorrência é registrada, alertando operadores em tempo real sobre eventos críticos.
 

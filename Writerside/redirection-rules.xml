@@ -151,4 +151,24 @@
         <description>Created after removal of "Diagrama de Caso de Uso" from Axion</description>
         <accepts>Diagrama-de-caso-de-uso.html</accepts>
     </rule>
+    <rule id="5d3eaf5f">
+        <description>Created after removal of "Tutorial" from Axion</description>
+        <accepts>Tutorialt.html</accepts>
+    </rule>
+    <rule id="6a370fd7">
+        <description>Created after removal of "Section Starting Page" from Axion</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+    <rule id="7dce849a">
+        <description>Created after removal of "Reference" from Axion</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="2f472308">
+        <description>Created after removal of "How to" from Axion</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="18ee1d9d">
+        <description>Created after removal of "OCR" from Axion</description>
+        <accepts>OCR.html</accepts>
+    </rule>
 </rules>
