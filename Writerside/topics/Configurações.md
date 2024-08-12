@@ -47,5 +47,3 @@ O "Controle de Acesso" permite a administração de usuários no sistema, inclui
 - **Segurança**: É importante definir perfis de acesso adequados para garantir que os usuários tenham apenas as permissões necessárias para suas funções.
 - **Auditoria**: Utilize os logs de acesso para monitorar atividades suspeitas ou anômalas, ajudando a manter a integridade e segurança do sistema.
 
----
-
