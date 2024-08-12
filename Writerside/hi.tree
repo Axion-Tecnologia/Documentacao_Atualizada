@@ -15,11 +15,11 @@
             <toc-element topic="Exportaçã.md"/>
             <toc-element topic="Consulta.md"/>
         </toc-element>
-        <toc-element topic="Cronotacógrafo.md">
+        <toc-element toc-title="Cronotacógrafo">
             <toc-element topic="triagem.md"/>
             <toc-element topic="Consultaa.md"/>
         </toc-element>
-        <toc-element topic="Balança.md">
+        <toc-element toc-title="Balança">
             <toc-element topic="Liberar-Pesagem.md"/>
             <toc-element topic="Ticket-Pesagem.md"/>
             <toc-element topic="Ticket-fechado.md"/>
@@ -27,14 +27,14 @@
             <toc-element topic="Posto-Pesagem.md"/>
             <toc-element topic="Motvios.md"/>
         </toc-element>
-        <toc-element topic="Operação.md">
+        <toc-element  toc-title="Operações">
             <toc-element topic="Monitoramento-Onlinee.md"/>
             <toc-element topic="Operaçõess.md"/>
             <toc-element topic="Eventos-Equipamentos.md"/>
             <toc-element topic="Faixa.md"/>
             <toc-element topic="Aferições.md"/>
         </toc-element>
-        <toc-element topic="Veiculo.md">
+        <toc-element toc-title="Veiculos">
             <toc-element topic="Classificações-Veiculos.md"/>
             <toc-element topic="Modelos-Veiculos.md"/>
             <toc-element topic="Marcas-Veiculos.md"/>
@@ -44,14 +44,14 @@
             <toc-element topic="Cores.md"/>
             <toc-element topic="Municipio.md"/>
         </toc-element>
-        <toc-element topic="Equipamento.md">
+        <toc-element toc-title="Equipamento">
             <toc-element topic="Equipamentoss.md"/>
             <toc-element topic="Grupos-de-Equipamentod.md"/>
             <toc-element topic="Tipos-de-Equipamentos.md"/>
             <toc-element topic="Fabricantes.md"/>
             <toc-element topic="Modelos-Equipamento.md"/>
         </toc-element>
-        <toc-element topic="Medição.md">
+        <toc-element toc-title="Medição">
             <toc-element topic="Nova-Medição.md"/>
             <toc-element topic="Mediç-eos-Finalizadas.md"/>
             <toc-element topic="Interrupções.md"/>
@@ -59,21 +59,21 @@
             <toc-element topic="Contratoss.md"/>
             <toc-element topic="indices-de-Perfomance.md"/>
         </toc-element>
-        <toc-element topic="Relatorio.md"/>
+        <toc-element toc-title="Relatorio"/>
         <toc-element topic="Controle-de-Acesso.md">
             <toc-element topic="Perfil-de-Acesso.md"/>
             <toc-element topic="Permissões.md"/>
             <toc-element topic="Usuarios.md"/>
             <toc-element topic="Logs-de-Acessos.md"/>
         </toc-element>
-        <toc-element topic="Configuraçõe.md">
+        <toc-element toc-title="Configurações">
             <toc-element topic="Arcos.md"/>
             <toc-element topic="Configurações-de-Enquadramento.md"/>
             <toc-element topic="Configurações-do-Sistema.md"/>
             <toc-element topic="Enquadramentos.md"/>
             <toc-element topic="Webhooks.md"/>
         </toc-element>
-        <toc-element topic="Contratos.md"/>
+        <toc-element toc-title="Contratos"/>
     </toc-element>
     <toc-element topic="Axcross.md">
         <toc-element topic="passo-a-passo-Configuração-AxCross.md"/>
