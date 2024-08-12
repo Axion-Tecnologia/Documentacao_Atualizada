@@ -5,6 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Falha-Sequências.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Fluxo-Diario-de-Véiculos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Formas-de-Autação.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Layouts-Arquivos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Motivos-de-Descarte.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Processamento-Por-Usuario.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Regiões.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio-BI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio-de-Discrepâncias.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio-de-Passagem-e.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio-de-Passagem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorio-do-Power-BI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatorios-de-logs-de-Envios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatório-de-Lote-de-Importação.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatório-de-Mapa-de-Fluxo-de-Passagens.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatório-de-Mapa-de-Teste-de-Equipamentos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatório-de-Processamento-de-Imagens.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Relatórios-de-Infrações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Sequenciais-Infração.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Sequencias-Lotes-Exportação.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/t.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
     </list>

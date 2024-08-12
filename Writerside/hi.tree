@@ -59,7 +59,22 @@
             <toc-element topic="Contratoss.md"/>
             <toc-element topic="indices-de-Perfomance.md"/>
         </toc-element>
-        <toc-element toc-title="Relatorio"/>
+        <toc-element toc-title="Relatorio">
+            <toc-element topic="t.md"/>
+            <toc-element topic="Relatorio-de-Passagem.md"/>
+            <toc-element topic="Falha-Sequências.md"/>
+            <toc-element topic="Fluxo-Diario-de-Véiculos.md"/>
+            <toc-element topic="Relatório-de-Lote-de-Importação.md"/>
+            <toc-element topic="Relatório-de-Mapa-de-Fluxo-de-Passagens.md"/>
+            <toc-element topic="Relatório-de-Mapa-de-Teste-de-Equipamentos.md"/>
+            <toc-element topic="Relatório-de-Processamento-de-Imagens.md"/>
+            <toc-element topic="Processamento-Por-Usuario.md"/>
+            <toc-element topic="Relatórios-de-Infrações.md"/>
+            <toc-element topic="Relatorio-de-Passagem-e.md"/>
+            <toc-element topic="Relatorio-de-Discrepâncias.md"/>
+            <toc-element topic="Relatorios-de-logs-de-Envios.md"/>
+            <toc-element topic="Relatorio-BI.md"/>
+        </toc-element>
         <toc-element topic="Controle-de-Acesso.md">
             <toc-element topic="Perfil-de-Acesso.md"/>
             <toc-element topic="Permissões.md"/>
@@ -71,9 +86,18 @@
             <toc-element topic="Configurações-de-Enquadramento.md"/>
             <toc-element topic="Configurações-do-Sistema.md"/>
             <toc-element topic="Enquadramentos.md"/>
+            <toc-element topic="Formas-de-Autação.md"/>
+            <toc-element topic="Layouts-Arquivos.md"/>
+            <toc-element topic="Motivos-de-Descarte.md"/>
+            <toc-element topic="Regiões.md"/>
+            <toc-element topic="Relatorio-do-Power-BI.md"/>
+            <toc-element topic="Sequencias-Lotes-Exportação.md"/>
+            <toc-element topic="Sequenciais-Infração.md"/>
+            <toc-element topic="Tarjas.md"/>
+            <toc-element topic="Tipos-de-Aferições.md"/>
+            <toc-element topic="Tipos-de-Imagens.md"/>
             <toc-element topic="Webhooks.md"/>
         </toc-element>
-        <toc-element toc-title="Contratos"/>
     </toc-element>
     <toc-element topic="Axcross.md">
         <toc-element topic="passo-a-passo-Configuração-AxCross.md"/>
@@ -90,7 +114,7 @@
     <toc-element topic="AxManage.md">
         <toc-element topic="Cadastramento-de-Equipamentos.md">
         </toc-element>
-        <toc-element topic="Importação-de-Equipamento.md">
+        <toc-element toc-title="Importação de Equipamento">
             <toc-element topic="Ativos.md">
                 <toc-element topic="Adicionando-Componentes.md"/>
             </toc-element>
