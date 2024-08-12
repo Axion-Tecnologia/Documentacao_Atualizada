@@ -1,3 +1,2 @@
 # Configurações de Enquadramento
 
-Start typing here...

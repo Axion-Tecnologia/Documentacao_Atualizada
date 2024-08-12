@@ -9,6 +9,7 @@
     <toc-element topic="Axion-Sistemas.topic"/>
     <toc-element topic="Axhub.md">
         <toc-element topic="Infrações.md">
+            <toc-element topic="Triagem-2.md"/>
             <toc-element topic="Auditoria.md"/>
             <toc-element topic="Exceções.md"/>
             <toc-element topic="Exportaçã.md"/>

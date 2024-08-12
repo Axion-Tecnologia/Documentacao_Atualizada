@@ -1,3 +1,2 @@
 # Configurações
 
-Start typing here...

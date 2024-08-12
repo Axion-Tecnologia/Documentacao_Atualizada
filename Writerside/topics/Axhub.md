@@ -1,6 +1,4 @@
-Para criar uma documentação detalhada do sistema mostrado na imagem, podemos seguir a estrutura de documentação técnica padrão, que incluirá uma descrição geral, funcionalidades de cada módulo, e capturas de tela para ilustrar o uso do sistema. Aqui está um exemplo de como você pode organizar a documentação:
 
----
 
 # AXHUB
 

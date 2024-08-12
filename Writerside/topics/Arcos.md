@@ -1,3 +1,2 @@
 # Arcos
 
-Start typing here...
