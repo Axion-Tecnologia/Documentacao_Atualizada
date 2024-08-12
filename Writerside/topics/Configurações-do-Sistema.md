@@ -64,7 +64,6 @@ As Configurações do Sistema são a parte mais importante do Axhub, pois permit
 2. **Validação**:
     - O sistema pode exigir validações adicionais para certos campos (como senhas e tokens), e informará o usuário em caso de falha.
 
----
 
 #### **Solução de Problemas Comuns**
 
