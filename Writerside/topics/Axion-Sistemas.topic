@@ -11,11 +11,11 @@
         </description>
 
         <spotlight>
-            <a href="" type="development" summary="Descubra tudo sobre as funcionalidades dos Sistemas">
+            <a href="Axhub.md" type="development" summary="Descubra tudo sobre as funcionalidades dos Sistemas">
                 Começando
             </a>
-            <a href="Contratos.md" type="community" summary="Descubra Todos os Contratos da Axion Tecnologia">
-                Contratos
+            <a href="" type="community" summary=" Todos os Sistema da Axion Tecnologia">
+                Descubra
             </a>
         </spotlight>
 
@@ -33,7 +33,7 @@
             <a href="Axton.md" type="presentation" summary="Sistema de pesagem robusto que oferece uma variedade de operações para gerenciar eficientemente o processo de pesagem de veículos.">
                 AXTON
             </a>
-            <a href="Passo-a-Passo-Configuração-AxSync.md" type="presentation" summary="Sistema de sincronização avançado para garantir a integridade e consistência dos dados.">
+            <a href="OCR.md" type="presentation" summary="Sistema de sincronização avançado para garantir a integridade e consistência dos dados.">
                 AXSYNC
             </a>
             <a href="" type="cross-platform" summary="Plataforma móvel para gestão e monitoramento de equipamentos e veículos, proporcionando acesso remoto e em tempo real às principais funcionalidades dos sistemas Axion.">
