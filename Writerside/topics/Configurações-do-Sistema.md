@@ -1,138 +1,86 @@
-# Configurações do Sistema 
+# Configurações do Sistema
+---
 
-## Introdução
-
-A seção de Configurações do Sistema no AXHUB permite aos administradores ajustar várias preferências e parâmetros para garantir que o sistema opere conforme as necessidades específicas da organização. Esta documentação detalha cada opção disponível nesta seção.
-
-## Configurações Gerais
-
-### Prazo para Triagem
-- **Descrição:** Define o prazo em dias para a realização das triagens.
-- **Valor Padrão:** 20 dias.
-
-### Tipo de Integração para Exportação
-- **Descrição:** Especifica o método de integração utilizado para a exportação de dados.
-- **Valor Padrão:** ExportacaoInfracaoInmetro.
-- **Opções Disponíveis:** Podem variar conforme configurações do sistema.
-
-### Limite de Infrações por Lote de Exportação
-- **Descrição:** Define a quantidade máxima de infrações por lote de exportação. Se deixado vazio, não haverá limite.
-- **Valor Padrão:** 100 infrações.
-
-### Base de Dados Consulta de Veículo
-- **Descrição:** Nome da base de dados utilizada para a consulta de veículos.
-- **Valor Padrão:** apiplacas.
-
-### Base de Dados Consulta Exportação
-- **Descrição:** Nome da base de dados utilizada para a consulta na exportação.
-- **Valor Padrão:** derse.
-
-### Exibir Quantidade em Auditoria no Painel Sinótico
-- **Descrição:** Opção para exibir a quantidade de auditorias no painel sinótico.
-- **Opções:** Ativado/Desativado.
-
-## Triagem
-
-### Possui Auditoria?
-- **Descrição:** Define se o sistema possui auditoria para a triagem.
-- **Opções:**, sim, /Não.
-
-### Requer Código do Agente para Auditoria de Imagens Válidas?
-- **Descrição:** Especifica se é necessário o código do agente para a auditoria de imagens válidas.
-- **Opções:** Sim ou Não.
-
-### Exigir Modelo/Marca na Triagem
-- **Descrição:** Define se é necessário exigir o modelo e a marca na triagem.
-- **Opções:** Sim ou Não.
-- **Valor Padrão:** Sim.
-
-### Exigir Marca/Modelo com Código Externo
-- **Descrição:** Define se é necessário exigir a marca e o modelo com um código externo.
-- **Opções:** Sim ou Não.
-- **Valor Padrão:** Sim.
-
-### Exibir Imagem de Perfil
-- **Descrição:** Define se deve exibir a imagem de perfil durante a triagem.
-- **Opções:** Sim ou Não.
-- **Valor Padrão:** Sim.
-
-### Tipo de Imagem do Lado Esquerdo
-- **Descrição:** Especifica o tipo de imagem que aparecerá no lado esquerdo nas telas de triagem/auditoria.
-- **Opções:** Variam conforme configurações do sistema.
-- **Valor Padrão:** ZT.
-
-### Tipo de Imagem do Lado Direito
-- **Descrição:** Especifica o tipo de imagem que aparecerá no lado direito nas telas de triagem/auditoria.
-- **Opções:** Variam conforme configurações do sistema.
-- **Valor Padrão:** P1.
-
-## Tempo e Limites
-
-### Tempo de Análise de Imagem
-- **Descrição:** Tempo para analisar imagens nas telas de triagem/auditoria.
-- **Valor Padrão:** 5 minutos.
-
-### Timeout Heartbeat
-- **Descrição:** Tempo sem heartbeat que determina que o equipamento está offline.
-- **Valor Padrão:** 5 minutos.
-
-### Tempo de Infração Duplicada
-- **Descrição:** Tempo considerado para infrações com o mesmo veículo, equipamento e enquadramento.
-- **Valor Padrão:** 1 segundo.
-
-### Percentual de Discrepância
-- **Descrição:** Percentual de margem a ser considerado na verificação de discrepância.
-- **Valor Padrão:** 30%.
-
-### Limite de Horas para Importação de Infração
-- **Descrição:** Quantidade limite de horas para aceitar novas infrações.
-- **Valor Padrão:** 720 horas.
-
-### Limite de Horas para Importação de Passagens
-- **Descrição:** Quantidade limite de horas para aceitar novas passagens.
-- **Valor Padrão:** 720 horas.
-
-### Exibir Alerta para Velocidades Superiores a
-- **Descrição:** Define a velocidade a partir da qual alerta serão exibidos.
-- **Valor Padrão:** 100 km/h.
-
-### Quantidade de Enquadramentos de Cronotacógrafo
-- **Descrição:** Quantidade mínima de enquadramentos configurados para infrações do tipo cronotacógrafo.
-- **Valor Padrão:** 2 enquadramentos.
-
-### Motivo de Descarte Padrão
-- **Descrição:** Seleciona o motivo de descarte que estará configurado na triagem como padrão.
-- **Valor Padrão:** 001 - OK.
-
-### Limite Tempo Interrupção
-- **Descrição:** Tempo para geração de interrupção sem o envio de dados.
-- **Valor Padrão:** 1 hora.
-
-### Limite Tempo Equipamento Conjugado
-- **Descrição:** Limite de tempo (minutos) para equipamentos conjugados.
-- **Valor Padrão:** 3 minutos.
-
-## Classificação e Notificações
-
-### Habilita Classificação por IA
-- **Descrição:** Ativa ou desativa a classificação por inteligência artificial.
-- **Opções:** Ativado/Desativado.
-- **Valor Padrão:** Ativado.
-
-### Conta do Envio de SMS
-- **Descrição:** Conta ou SID do serviço de SMS.
-- **Campo:** Texto.
-
-### Token para Envio do SMS
-- **Descrição:** Token do serviço de SMS.
-- **Campo:** Texto.
-
-## Fator de Medição
-
-### Opções Disponíveis
-- **Infração:** Ativado/Desativado.
-- **Passagem:** Ativado/Desativado.
-- **Imagem de Teste:** Ativado/Desativado.
-- **Índice de OCR:** Ativado/Desativado.
+#### **Visão Geral**
+As Configurações do Sistema são a parte mais importante do Axhub, pois permitem a administração centralizada de parâmetros críticos que afetam o funcionamento de toda a plataforma. Este módulo abrange desde a configuração de integração com serviços externos até o ajuste de parâmetros específicos para a operação do sistema.
 
 ---
+
+#### **Acesso às Configurações do Sistema**
+
+1. **Caminho**:
+    - Para acessar as configurações do sistema, vá para **Administração > Configurações do Sistema** no menu principal.
+
+2. **Permissões**:
+    - Somente administradores ou usuários com permissões elevadas devem ter acesso a esta seção, dado o impacto potencial das alterações feitas aqui.
+
+---
+
+#### **Seções das Configurações do Sistema**
+
+##### 1. **Configurações Gerais**
+
+- **Prazo para Triagem**: Define o número de dias para realizar a triagem de infrações. O valor padrão é `20` dias.
+- **Tipo de Integração para Exportação**: Escolha o tipo de integração para exportação, como `ExportacaoInfraçaoInmetro`.
+- **Limite de Infrações por Lote de Exportação**: Defina o número máximo de infrações que podem ser exportadas por lote. O valor padrão é `100`.
+- **Tipo de Imagem do Lado Esquerdo/Direito**: Especifique os tipos de imagem que aparecerão nas listas de triagem/auditoria.
+- **Exibir Quantidade em Auditoria no Painel Sinótico**: Opção para exibir a quantidade de auditorias no painel.
+- **Exigir Agente para Auditoria**: Habilite se for necessário que um agente aprove auditorias de imagens válidas.
+- **Tempo de Análise da Imagem**: Define o tempo em minutos para a análise de imagens.
+- **Timeout Heartbeat**: Tempo em minutos que define quando o equipamento está offline.
+- **Tempo de Infração Duplicada**: Define o tempo, em segundos, para que infrações com o mesmo veículo e equipamento sejam consideradas duplicadas.
+- **Limite de Horas para Importação de Infrações**: Define o tempo limite em horas para a importação de novas infrações.
+- **Exibir Alertas para Velocidades Superiores a**: Defina o limite de velocidade (em Km/h) para exibir alertas.
+- **Motivo de Descarte Padrão**: Escolha o motivo padrão para o descarte de infrações.
+- **Conta de Envio de SMS**: Defina a conta de SMS para envio de notificações.
+
+##### 2. **Configurações do Órgão Autuador**
+
+- **Código da Entidade**: Código da empresa ou entidade que presta o serviço de monitoramento.
+- **Nome da Entidade**: Nome da entidade responsável pelo monitoramento.
+- **Nome do Órgão Autuador**: Especifica o nome do órgão responsável pela autuação.
+- **Endereço do Órgão Autuador**: Endereço completo do órgão.
+- **Telefone do Órgão Autuador**: Número de telefone de contato.
+- **CNPJ do Órgão Autuador**: Cadastro Nacional de Pessoa Jurídica do órgão.
+- **Logo do Órgão Autuador**: Permite o upload ou alteração do logotipo do órgão autuador.
+
+##### 3. **Configurações de Integração com Power BI**
+
+- **Authentication Type**: Define o tipo de autenticação para integração com o Power BI, como `ServicePrincipal`.
+- **URL Power BI Service Api Root**: Especifique a URL raiz para a API do Power BI.
+- **Authority Url**: URL da autoridade de autenticação, geralmente `https://login.microsoftonline.com/organizations`.
+- **Application Id**: ID da aplicação registrada no Azure AD para integração com Power BI.
+- **Application Secret**: Chave secreta para a aplicação registrada.
+- **Scope**: Defina o escopo de permissões para a integração, como `https://analysis.windows.net/powerbi/api/.default`.
+
+---
+
+#### **Salvamento e Validação**
+
+1. **Salvar Configurações**:
+    - Após ajustar os parâmetros necessários, clique em **Salvar** no topo da tela para aplicar as mudanças.
+    - Certifique-se de revisar todas as seções antes de salvar para evitar inconsistências.
+
+2. **Validação**:
+    - O sistema pode exigir validações adicionais para certos campos (como senhas e tokens), e informará o usuário em caso de falha.
+
+---
+
+#### **Solução de Problemas Comuns**
+
+1. **Problema**: Configurações não são salvas corretamente.
+    - **Solução**: Verifique se todos os campos obrigatórios estão preenchidos e se os valores são válidos. Certifique-se de que não há problemas de conexão com o banco de dados ou serviços externos.
+
+2. **Problema**: Integração com Power BI falha.
+    - **Solução**: Confirme que os detalhes de autenticação (Application Id, Secret, Authority Url) estão corretos e que a aplicação está devidamente configurada no Azure AD.
+
+---
+
+#### **Considerações Finais**
+
+- As Configurações do Sistema são cruciais para o funcionamento do Axhub. Alterações devem ser feitas com cautela e apenas por pessoal autorizado.
+- Revisões regulares dessas configurações são recomendadas para garantir que o sistema continue operando de maneira eficiente e conforme as exigências regulatórias.
+
+---
+
+Se precisar de mais detalhes ou ajuda com outra parte do sistema, estou aqui para ajudar!
