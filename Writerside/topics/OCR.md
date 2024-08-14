@@ -1,4 +1,4 @@
-# Configuração do AxSync
+# Configuração AXSYNC
 Para que uma operação seja executada no Axhub, é necessário configurar o AxSync. Siga estes passos para configurar o AxSync e permitir que operações sejam executadas no Axhub:
 
 
@@ -259,5 +259,3 @@ Claro, aqui está a parte solicitada revisada e melhorada:
     - No AxHub, vá para a seção de operações.
     - Selecione o equipamento cadastrado no OCR e clique em "Editar".
     - No Dashboard, verifique a seção "OCR nas Últimas 48 Horas" para confirmar se as passagens estão sendo recebidas e processadas corretamente.
-
----
