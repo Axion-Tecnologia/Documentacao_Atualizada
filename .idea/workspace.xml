@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/686c0921-4878-4733-bf6d-237c56c95864.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_12.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/OCR.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/OCR.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
