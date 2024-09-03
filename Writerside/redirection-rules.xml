@@ -187,4 +187,32 @@
         <description>Created after removal of "How to" from Axion</description>
         <accepts>How-to.html</accepts>
     </rule>
+    <rule id="3e917d32">
+        <description>Created after removal of "Configuração AXSYNC" from Axion</description>
+        <accepts>OCR.html</accepts>
+    </rule>
+    <rule id="221ce6c7">
+        <description>Created after removal of "Liberar Pesagem" from Axion</description>
+        <accepts>Liberar-Pesagem.html</accepts>
+    </rule>
+    <rule id="16571313">
+        <description>Created after removal of "Ticket Pesagem" from Axion</description>
+        <accepts>Ticket-Pesagem.html</accepts>
+    </rule>
+    <rule id="20b0cd21">
+        <description>Created after removal of "Ticket fechado" from Axion</description>
+        <accepts>Ticket-fechado.html</accepts>
+    </rule>
+    <rule id="53f36824">
+        <description>Created after removal of "Reclassificar" from Axion</description>
+        <accepts>Reclassificar.html</accepts>
+    </rule>
+    <rule id="199a187a">
+        <description>Created after removal of "Posto Pesagem" from Axion</description>
+        <accepts>Posto-Pesagem.html</accepts>
+    </rule>
+    <rule id="587646a4">
+        <description>Created after removal of "Motivos" from Axion</description>
+        <accepts>Motvios.html</accepts>
+    </rule>
 </rules>

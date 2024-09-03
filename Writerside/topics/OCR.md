@@ -1,261 +1,95 @@
-# Configuração AXSYNC
-Para que uma operação seja executada no Axhub, é necessário configurar o AxSync. Siga estes passos para configurar o AxSync e permitir que operações sejam executadas no Axhub:
-
-
-### Criar Pasta
-Crie uma pasta chamada "Axion.AxSync" no LinuxLite.
-
-### Colocar Executáveis
-Na pasta "Axion.AxSync", coloque os seguintes arquivos necessários para o funcionamento do aplicativo:
-
-- `app.exe` (ou qualquer outro nome que o aplicativo tenha)
-- `setting.json`
-- `axion.services`
-- `sqlite` (ou quaisquer outros arquivos necessários)
-
-### Trocar Nome do Equipamento no JSON
-Para trocar o nome do equipamento no arquivo JSON, siga estas etapas:
-
-1. Abra o arquivo 'setting.json' com um editor de texto.
-2. Localize o campo que define o nome do equipamento.
-3. Substitua o nome atual pelo novo nome do equipamento.
-4. Salve as alterações no arquivo JSON.
-
-### Baixar o .NET 7
-Execute os seguintes comandos no terminal para instalar o .NET 7:
-
-```shell
-wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb
-sudo dpkg -i packages-microsoft-prod.deb
-rm packages-microsoft-prod.deb
-sudo apt-get update
-sudo apt-get install -y aspnetcore-runtime-7.0
-```
-
-### Criar Arquivo de Autostart do Serviço
-Crie o arquivo de serviço para o AxSync:
-
-```shell
-sudo nano /etc/systemd/system/AxSync.service
-```
+# OCR
+Após configurar o Axsync, é necessário ajustar as configurações do OCR para a captura de imagens, no OCR Configurator
 
 <warning>
-<p>Atenção: Substitua 'USUARIOLINUX' pelo usuário da máquina nos comandos abaixo.</p>
-</warning>
+É necessário criar a Operação no AxHub para a entrega das passagens.</warning>
 
-### Colar as Configurações no Arquivo AxSync.service
-Aperte `Ctrl+O` para salvar e `Ctrl+X` para sair do editor. Cole o código abaixo:
 
-```shell
-[Unit]
-Description=Serviço de Envio de Imagens para o AxHUB
-[Service]
-WorkingDirectory=/home/USUARIOLINUX/Axion.AxSync/
-ExecStart=/home/USUARIOLINUX/Axion.AxSync/Axion.AxSync.Service
-Restart=always
-# Reiniciar serviço após 10 segundos se o serviço dotnet falhar:
-RestartSec=10
-KillSignal=SIGINT
-SyslogIdentifier=log.axsync
-User=USUARIOLINUX
-TimeoutStopSec=30
-[Install]
-WantedBy=multi-user.target
-```
+##  Equipamento
+![Imagem do WhatsApp de 2024-08-20 à(s) 10.26.00_145c0c49.jpg](Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.00_145c0c49.jpg)
 
-## Configuração Passo a Passo do OCR das Câmeras
+- **Código do Equipamento**: Deve ser cadastrado exatamente igual no AxHub para garantir que a legenda da imagem seja exibida corretamente.![image_10.png](image_10.png)
+- **Local**: Refere-se ao endereço onde o equipamento está instalado.
+- **Nome da Via**: Refere-se ao endereço da Faixa onde o equipamento está instalado.
+### Opção de Configuração
+ 1. Debug Passagens
+ 2. Consultar Tipo de Veículo
+ 3. Gerar Imagem Teste
+ 4. Realizar Identificação Jidosha
+ 5. Realizar Identificação OPENALPR
+ 6. Gravar Movimento Sem Veículos
+ 7. Acionar Iluminador Apenas Com Movimento
 
-### Configurações do Sistema
+##  Faixas
 
-**Descrição**
+![Imagem do WhatsApp de 2024-08-20 à(s) 10.26.10_5e641ee3.jpg](Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.10_5e641ee3.jpg)
 
-O OCR (Reconhecimento Óptico de Caracteres) é um software responsável por capturar as passagens de veículos por meio da leitura das placas. Ele deve ser configurado corretamente para funcionar com uma câmera conectada à máquina LinuxLite e um módulo de rede.
+- **Escolha da Faixa a Configurar**: Refere-se à configuração da faixa selecionada na operação. Cada operação pode incluir várias faixas de equipamento.
+- **Status**: Indica o status da faixa.
+<warning> Atenção: Apenas uma faixa pode estar ativa por vez. </warning>
 
-### Verifique a Conexão da Câmera
+- **Código**: Número da faixa registrada no AxHub.
+- **Descrição**: Sentido da faixa registrada no AxHub.
+<warning> Atenção: Não utilize barras, apenas traços são permitidos.</warning>
 
-1. No LinuxLite, vá até a seção de conexões de rede.
-2. Clique em "Editar Conexão" e altere apenas o IP da câmera.
-    - Caminho: Ipv4 Settings
-        - Método: Mude para "Manual"
-        - Clique no botão "Adicionar" em Endereços.
-        - Exemplo de IP: `192.168.1.20`
-    - Em Ethernet, o método deve ser sempre "Automático".
+- **Sentido de Captura**: Será afastado ou aproximado para melhorar a qualidade da captura da imagem.
 
-3. Faça um teste:
 
-```shell
-ping 192.168.1.20
-```
 
-### Cadastramento do Equipamento
 
-1. **Código do Equipamento:** [Equipamento Cadastrado no AxHub]
-2. **Local:** [Endereço]
-3. **Nome da Vila:** [Nome da Vila]
 
-### Faixas
+##  Cameras
+![Imagem do WhatsApp de 2024-08-21 à(s) 14.35.35_c2743db8.jpg](Imagem_do_WhatsApp_de_2024-08-21_à(s)_14.35.35_c2743db8.jpg)
 
-1. **Código da Faixa:** [Equipamento Cadastrado no AxHub]
-2. **Descrição:** [Sentido da Faixa]
+O painel de configuração de câmeras permite ajustar diversos parâmetros para o funcionamento correto da câmera e a captura de imagens para OCR. A seguir, detalhamos cada campo de configuração:
 
-### Câmeras
+1. **Escolha a Câmera a Configurar**:
+    - Selecione a câmera que deseja configurar a partir da lista disponível.
 
-1. **IP:** Coloque o IP definido da câmera.
-2. **URL de Conexão:** Troque apenas o IP da conexão estabelecida.
+2. **IP**:
+    - Endereço IP da câmera. No exemplo, o IP configurado é `192.168.1.10`.
 
-<warning>
-Atenção: Se o OCR não estiver configurado corretamente, as passagens não serão enviadas para o AxHub.
-</warning>
+3. **Protocolo**:
+    - Protocolo utilizado pela câmera para comunicação.`PUMATRONIX`, `ONVIF`.
 
-## Inicializando a Aplicação
+4. **Resolução Saída Largura**:
+    - Define a largura da resolução de saída da imagem capturada. Exemplo: `752`.
 
-```shell
-chmod +x /home/linuxlite/Axion.AxSync/Axion.AxSync.Service
-sudo systemctl start AxSync.service
-sudo systemctl enable AxSync.service
-sudo systemctl status AxSync.service
-```
+5. **Resolução Saída Altura**:
+    - Define a altura da resolução de saída da imagem capturada. Exemplo: `480`.
 
-<warning>
-Verifique a câmera para garantir que esteja funcionando corretamente para capturar as passagens. Sem a câmera, o AxSync não conseguirá enviar as passagens para o AxHub.
-</warning>
+6. **Detecção Percentual Movimento**:
+    - Define o percentual mínimo de movimento necessário para que a câmera detecte uma mudança. Exemplo: `10`.
 
-## Lista de Comandos Úteis
+7. **Altura Ideal Placa**:
+    - Configuração para a altura ideal da placa em pixels na imagem capturada. Exemplo: `300`.
 
-1. **Procurar Processo em Execução:**
-   ```shell
-   ps aux | grep Axion
-   ```
+8. **Percentual Variação Nova Placa**:
+    - Define o percentual de variação permitido para reconhecer uma nova placa. Exemplo: `0.10`.
 
-2. **Listar Todos os Processos:**
-   ```shell
-   ps -ef
-   ```
+9. **Opções de Configuração**:
+    - **Identificar Placa Na Imagem**: Permite a identificação da placa na imagem capturada.
+    - **Exibir Imagem Ao Vivo**: Exibe a imagem ao vivo da câmera.
+    - **Gravar Imagem Ao Vivo**: Habilita a gravação da imagem ao vivo.
+    - **Debug Detecção Veículo**: Habilita o modo de depuração para detecção de veículos.
 
-3. **Matar Processo:**
-   ```shell
-   sudo kill NUMEROPROCESSO(PID)
-   ```
+10. **Testar Conexão Câmera**:
+    - Botão para testar a conexão da câmera com as configurações definidas.
 
-4. **Recarregar Configurações do Autostart:**
-   ```shell
-   sudo systemctl daemon-reload
-   ```
+11. **Configurar Detecção**:
+    - Botão para configurar as opções avançadas de detecção da câmera.
 
-## Erros Recorrentes
+12. **URL Conexão**:
+    - URL gerada automaticamente para conexão com a câmera, que inclui o IP, porta e parâmetros de streaming. Exemplo:
+      ```
+      rtsp://admin:@192.168.1.10:554/H264?ch=1&subtype=0
+      ```
+##  Conexões
+![Imagem do WhatsApp de 2024-09-03 à(s) 08.51.55_e59ae757.jpg](Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.51.55_e59ae757.jpg)
 
-<warning>
-<p>
-Erro: Unknown command verb status AxSync.service.
-</p>
-</warning>
-
-### Resolução:
-Verifique sempre a chave token do fabricante no Axhub. Caso esteja incorreta, substitua a chave atualizada no campo API Key do sistema.
-
-### Exemplo de Configuração JSON
-
-```json
-{
-  "Logging": {
-    "LogLevel": {
-      "Default": "Error"
-    }
-  },
-  "DeviceSettings": {
-    "DeviceManufacturer": "AxRadar",
-    "DeviceCode": "PA602C",
-    "HeartbeatInterval": "00:10:00",
-    "InfractionCodes": {
-      "Speeding": [ "74550", "74630", "74710" ],
-      "EvasionBalance": [ "60682" ],
-      "RestrictedCirculation": [ "57463" ],
-      "StopOverCrosswalk": [ "56732" ],
-      "AdvanceRedLight": [ "60503" ],
-      "ExclusiveLane": {
-        "ExclusiveLanePublicTransportation": [ "75870" ],
-        "RightExclusiveLane": [ "56810" ],
-        "LeftExclusiveLane": [ "56900" ],
-        "TargetLane": [ "57030" ]
-      },
-      "ProhibitedTurn": {
-        "Return": [ "59910" ],
-        "RightTurn": [ "60411" ],
-        "LeftTurn": [ "60412" ]
-      }
-    }
-  },
-  "ApiSettings": {
-    "ApiKey": "04953762da404159938197711bb9b3d3",
-    "ApiEndpoint": "https://imetropa.axhub-api.axion.ws"
-  },
-  "AxRadarSettings": {
-    "RootImageFolder": "/home/linuxlite/appOCR/Imagens/",
-    "ImagesFolder": "/home/linuxlite/appOCR/Imagens/Capturas",
-    "TestImagesFolder": "/home/linuxlite/appOCR/Imagens/ImagemTeste"
-  },
-  "VelsisSettings": {
-    "SendPassageImage": true,
-    "PassageImageTypes": [ "ZT", "ZF" ],
-    "RootImageFolder": "D:\\VSRadarFixoLaser",
-    "InfractionImageFolder": "D:\\VSRadarFixoLaser\\Exporta\\",
-    "PassageImageFolder": "D:\\VSRadarFixoLaser\\ExportaImagensPassagem",
-    "PassageTxtFolder": "D:\\VSRadarFixoLaser\\Exporta"
-  }
-}
-```
-
-### Verifique o Comando
-
-#### Arquivo de Configuração do Serviço
-
-```shell
-[Unit]
-Description=Serviço de Envio de Imagens para o AxHUB
-[Service]
-WorkingDirectory=/home/USUARIOLINUX/Axion.AxSync/
-ExecStart=/home/USUARIOLINUX/Axion.AxSync/Axion.AxSync.Service
-Restart=always
-# Reiniciar serviço após 10 segundos se o serviço dotnet falhar:
-RestartSec=10
-KillSignal=SIGINT
-SyslogIdentifier=log.axsync
-User=USUARIOLINUX
-TimeoutStopSec=30
-[Install]
-WantedBy=multi-user.target
-```
-
-#### Atalhos de Teclado no Linux
-
-Para salvar e sair do editor, pressione `CTRL + O` para salvar e `CTRL + X` para sair.
-
-### Comandos para Executar
-
-```shell
-chmod +x /home/linuxlite/Axion.AxSync/Axion.AxSync.Service
-sudo systemctl start AxSync.service
-sudo systemctl enable AxSync.service
-sudo systemctl status AxSync.service
-```
-Claro, aqui está a parte solicitada revisada e melhorada:
-
----
-
-## Verificação das Passagens no Axhub
-
-1. **Preparar a Câmera:**
-    - Posicione a câmera para capturar as passagens dos veículos, garantindo que ela esteja configurada para enviar os dados ao Axhub.
-
-2. **Iniciar o OCR:**
-    - Na área de trabalho, clique no arquivo Start.sh para iniciar o OCR.
-
-3. **Verificar as Imagens Enviadas:**
-    - Navegue até a pasta `linuxLite/imagens/enviadas`.
-        - Se a pasta `enviadas` estiver presente e contiver imagens, isso indica que as imagens estão sendo enviadas para o Axhub.
-        - Se a pasta `enviadas` não estiver presente ou estiver vazia, as imagens permanecerão como pendentes até que a configuração seja corrigida.
-
-4. **Verificar Passagens no AxHub:**
-    - No AxHub, vá para a seção de operações.
-    - Selecione o equipamento cadastrado no OCR e clique em "Editar".
-    - No Dashboard, verifique a seção "OCR nas Últimas 48 Horas" para confirmar se as passagens estão sendo recebidas e processadas corretamente.
+## Diretorios
+![Imagem do WhatsApp de 2024-09-03 à(s) 08.52.08_e8f3b17f.jpg](Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.08_e8f3b17f.jpg)
+##  Ocr
+![Imagem do WhatsApp de 2024-09-03 à(s) 08.52.21_f92fa54d.jpg](Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.21_f92fa54d.jpg)
+##  Agendamento
+![Imagem do WhatsApp de 2024-09-03 à(s) 08.52.40_23a0a221.jpg](Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.40_23a0a221.jpg)

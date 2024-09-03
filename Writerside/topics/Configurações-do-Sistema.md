@@ -1,5 +1,4 @@
 # Configurações do Sistema
----
 
 #### **Visão Geral**
 As Configurações do Sistema são a parte mais importante do Axhub, pois permitem a administração centralizada de parâmetros críticos que afetam o funcionamento de toda a plataforma. Este módulo abrange desde a configuração de integração com serviços externos até o ajuste de parâmetros específicos para a operação do sistema.

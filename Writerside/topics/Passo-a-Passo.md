@@ -73,17 +73,29 @@ Observação: Certifique-se de ter instalado o MongoDB, MongoDB Compass e criado
 <list type="alpha-lower" >
 <li>Insira o código dos equipamentos. 
 </li>
-<li>Insira as classificações no arquivo AxTon.classifications.JSON
+<li>Insira as classificações no arquivo AxTon.classifications.JSON 
+<tip>
+    Observação: somente com suporte (AxTon.classifications.JSON) vai ser disponibilizado
+</tip>
 </li>
+
 <li>Insira os dados do órgão HAENNI - URL do Servidor.
-</li>
-</list>
-</li>
-</list>
 <tip>
 Observação: Certifique-se de ter importado o JSON corretamente para evitar erros na hora da pesagem</tip>
 
-
-<list type="decimal" start="3">
-<li> Clique em "Conectar e Salvar"  </li>
+</li>
 </list>
+</li>
+</list>
+
+
+##### 3. Tipo de Exportação
+#### ATraffic:
+1. **Formato de Exportação:** Excel (.xlsx)
+2. **Método de Exportação:** Os dados serão exportados localmente no formato de planilha Excel.
+3. **Detalhes Adicionais:** Esta opção é ideal quando há necessidade de manipulação ou análise dos dados localmente, oferecendo a flexibilidade de edição, visualização e compartilhamento conforme necessário.
+#### Axhub:
+1. **Formato de Exportação:** Direto para o Axhub (plataforma de integração)
+2. **Método de Exportação:** Os dados são exportados diretamente para o sistema Axhub.
+3. **Restrição Importante:** Quando selecionado o tipo de exportação "Axhub", os dados exportados não poderão ser deletados do sistema. Esta opção é utilizada para integrações automáticas e seguras, garantindo que os dados enviados ao Axhub permaneçam inalterados e disponíveis para uso contínuo na plataforma.
+

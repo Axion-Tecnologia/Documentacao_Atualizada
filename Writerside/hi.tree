@@ -7,7 +7,7 @@
                   start-page="Axion-Sistemas.topic">
 
     <toc-element topic="Axion-Sistemas.topic"/>
-    <toc-element topic="Axhub.md">
+    <toc-element toc-title="AXHUB">
         <toc-element toc-title="Infração">
             <toc-element topic="Triagem-2.md"/>
             <toc-element topic="Auditoria.md"/>
@@ -19,15 +19,7 @@
             <toc-element topic="triagem.md"/>
             <toc-element topic="Consultaa.md"/>
         </toc-element>
-        <toc-element toc-title="Balança">
-            <toc-element topic="Liberar-Pesagem.md"/>
-            <toc-element topic="Ticket-Pesagem.md"/>
-            <toc-element topic="Ticket-fechado.md"/>
-            <toc-element topic="Reclassificar.md"/>
-            <toc-element topic="Posto-Pesagem.md"/>
-            <toc-element topic="Motvios.md"/>
-        </toc-element>
-        <toc-element  toc-title="Operações">
+        <toc-element toc-title="Operações">
             <toc-element topic="Monitoramento-Onlinee.md"/>
             <toc-element topic="Operaçõess.md"/>
             <toc-element topic="Eventos-Equipamentos.md"/>
@@ -46,10 +38,10 @@
         </toc-element>
         <toc-element toc-title="Equipamento">
             <toc-element topic="Equipamentoss.md"/>
+            <toc-element topic="Modelos-Equipamento.md"/>
             <toc-element topic="Grupos-de-Equipamentod.md"/>
             <toc-element topic="Tipos-de-Equipamentos.md"/>
             <toc-element topic="Fabricantes.md"/>
-            <toc-element topic="Modelos-Equipamento.md"/>
         </toc-element>
         <toc-element toc-title="Medição">
             <toc-element topic="Nova-Medição.md"/>
@@ -127,6 +119,8 @@
         <toc-element topic="Alertas.md"/>
     </toc-element>
     <toc-element toc-title="AXSYNC">
-        <toc-element topic="OCR.md"/>
+        <toc-element topic="AXSYNC.md">
+            <toc-element topic="OCR.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
