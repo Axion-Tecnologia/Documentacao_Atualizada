@@ -5,42 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.00_145c0c49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.00_20580b6d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.00_208241e1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.10_1abf628d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-20_à(s)_10.26.10_5e641ee3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-08-21_à(s)_14.35.35_c2743db8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.51.55_e59ae757.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.08_e8f3b17f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.21_f92fa54d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/Imagem_do_WhatsApp_de_2024-09-03_à(s)_08.52.40_23a0a221.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/AXSYNC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/OCR.topic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/686c0921-4878-4733-bf6d-237c56c95864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_12.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Aferições.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Aferições.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Arcos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Arcos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Classificações-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Classificações-Veiculos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações-de-Enquadramento.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-de-Enquadramento.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Equipamentoss.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Equipamentoss.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Fabricantes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Fabricantes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Faixa.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Faixa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Modelos-Equipamento.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Modelos-Equipamento.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/OCR.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/OCR.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Passo-a-Passo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Equipamentos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Equipamentos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
