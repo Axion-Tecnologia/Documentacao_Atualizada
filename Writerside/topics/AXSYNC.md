@@ -50,14 +50,14 @@ Aperte `Ctrl+O` para salvar e `Ctrl+X` para sair do editor. Cole o código abaix
 [Unit]
 Description=Serviço de Envio de Imagens para o AxHUB
 [Service]
-WorkingDirectory=/home/USUARIOLINUX/Axion.AxSync/
-ExecStart=/home/USUARIOLINUX/Axion.AxSync/Axion.AxSync.Service
+WorkingDirectory=/home/linuxlite/Axion.AxSync/
+ExecStart=/home/linuxlite/Axion.AxSync/Axion.AxSync.Service
 Restart=always
 # Reiniciar serviço após 10 segundos se o serviço dotnet falhar:
 RestartSec=10
 KillSignal=SIGINT
 SyslogIdentifier=log.axsync
-User=USUARIOLINUX
+User=linuxlite
 TimeoutStopSec=30
 [Install]
 WantedBy=multi-user.target

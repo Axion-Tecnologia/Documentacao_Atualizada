@@ -84,6 +84,10 @@ Após configurar o Axsync, é necessário ajustar as configurações do OCR para
 
 - **Percentual Variação Nova Placa** Define o percentual de variação permitido para reconhecer uma nova placa.
 
+
+#### **Tipo de Câmera**: Selecione o tipo como **Radar**.
+
+
 ### **Opções de Configuração**:
 
 **Identificar Placa Na Imagem**: 
@@ -210,3 +214,4 @@ A tabela permite configurar múltiplos agendamentos para cada câmera, ajustando
 - **192.168.0.201** está configurada para operar no modo "DAY" das 06:00 às 10:00 com um shutter de 60 ms, nível de 20, e ganho de 70.
 - **192.168.0.202** alterna entre o modo "DAY" e "NIGHT" dependendo do horário configurado, ajustando os parâmetros como o shutter e ganho conforme a luz ambiente muda.
 
+ 
