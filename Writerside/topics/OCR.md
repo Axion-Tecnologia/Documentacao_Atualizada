@@ -85,7 +85,182 @@ Após configurar o Axsync, é necessário ajustar as configurações do OCR para
 - **Percentual Variação Nova Placa** Define o percentual de variação permitido para reconhecer uma nova placa.
 
 
-#### **Tipo de Câmera**: Selecione o tipo como **Radar**.
+#### **Tipo de Câmera**: Selecione o tipo como **Radares**.
+
+- As Configurações das câmeras são realizadas no arquivo **parametros.config**
+
+- As configurações das câmeras devem ser feitas de maneira que cada uma possua um endereço IP exclusivo. Por exemplo:
+1. Câmera 1: 192.168.1.91
+2. Câmera 2: 192.168.1.90
+
+O IP do servidor ou máquina onde as câmeras estão conectadas, neste caso, é 192.168.1.100. Para que o sistema reconheça corretamente cada câmera, é essencial garantir que os IPs não se repitam, evitando conflitos de rede. Cada câmera deve estar configurada com um IP único dentro do mesmo intervalo de rede da máquina principal.
+
+<sample >
+;-------------------------------------------------------------------------------------------
+[EQUIPAMENTO]
+;-------------------------------------------------------------------------------------------
+CodigoEquipamento = T5410
+Local = Teresina - PI
+NomeVia = AV. PRES. KENNEDY, PROX AO N. 1444
+DebugPassagens = false
+CaminhoApp = ./
+ConsultarTipoVeiculo = true
+SimularCaptura = false
+CameraASimular = Camera01
+GerarImagemTeste = false
+RealizarIdentificacaoJidosha = false
+RealizarIdentificacaoOPENALPR = false
+DebugTempoProcessamentoCamera = false
+GerarVideo = false
+GravarMovimentoSemVeiculos = false
+AcionarIluminadorApenasComMovimento = true
+
+;-------------------------------------------------------------------------------------------
+[FAIXAS]
+;-------------------------------------------------------------------------------------------
+Faixa01_Status = Ativo
+Faixa01_CodigoFaixa = 01
+Faixa01_DescricaoFaixa = Sul - Norte - Faixa 01
+Faixa01_SentidoCaptura = APROXIMANDO
+Faixa01_CameraZoom = Camera01
+Faixa01_CameraPanoramica =
+
+Faixa02_Status = Inativo
+Faixa02_CodigoFaixa = 02
+Faixa02_DescricaoFaixa =
+Faixa02_SentidoCaptura = APROXIMANDO
+Faixa02_CameraZoom = Camera02
+Faixa02_CameraPanoramica =
+
+
+;-------------------------------------------------------------------------------------------
+[CAMERAS]
+;-------------------------------------------------------------------------------------------
+Camera01_Ip = 192.168.1.91
+Camera01_Protocolo = PUMATRONIX
+
+Camera01_AreaRecorteCoordenadaX = 0
+Camera01_AreaRecorteCoordenadaY = 0
+Camera01_AreaRecorteLargura = 752
+Camera01_AreaRecorteAltura = 480
+
+Camera01_AreaLeituraPlacaCoordenadaX = 0
+Camera01_AreaLeituraPlacaCoordenadaY = 250
+Camera01_AreaLeituraPlacaLargura = 752
+Camera01_AreaLeituraPlacaAltura = 230
+
+Camera01_ResolucaoSaidaLargura = 752
+Camera01_ResolucaoSaidaAltura = 480
+
+Camera01_AlturaIdealPlaca = 300
+Camera01_PercentualVariacaoNovaPlaca = 0.10
+Camera01_IdentificarPlacaNaImagem = false
+
+Camera01_DeteccaoDistanciaBordaSuperior = 300
+Camera01_DeteccaoDistanciaBordaEsquerda = 5
+Camera01_DeteccaoDistanciaBordaDireita = 120
+Camera01_DeteccaoAlturaArea = 20
+Camera01_DeteccaoPercentualMovimento = 10
+Camera01_DeteccaoQtdeFramesResetMovimento = 5000
+Camera01_DeteccaoAjusteAngulo =
+
+Camera01_ExibirImagemAoVivo = false
+Camera01_GravarImagemAoVivo = false
+Camera01_debugDeteccaoVeiculo = false
+
+Camera01_URLConexao =
+
+;-------------------------------------------------------------------------------------------
+Camera02_Ip = 192.168.1.90
+Camera02_Protocolo = PUMATRONIX
+
+Camera02_AreaRecorteCoordenadaX = 0
+Camera02_AreaRecorteCoordenadaY = 0
+Camera02_AreaRecorteLargura = 752
+Camera02_AreaRecorteAltura = 480
+
+Camera02_AreaLeituraPlacaCoordenadaX = 0
+Camera02_AreaLeituraPlacaCoordenadaY = 200
+Camera02_AreaLeituraPlacaLargura = 752
+Camera02_AreaLeituraPlacaAltura = 280
+
+Camera02_ResolucaoSaidaLargura = 752
+Camera02_ResolucaoSaidaAltura = 480
+
+Camera02_AlturaIdealPlaca = 330
+Camera02_PercentualVariacaoNovaPlaca = 0.10
+Camera02_IdentificarPlacaNaImagem = false
+
+Camera02_DeteccaoDistanciaBordaSuperior = 300
+Camera02_DeteccaoDistanciaBordaEsquerda = 0
+Camera02_DeteccaoDistanciaBordaDireita = 100
+Camera02_DeteccaoAlturaArea = 20
+Camera02_DeteccaoPercentualMovimento = 10
+Camera02_DeteccaoQtdeFramesResetMovimento = 5000
+Camera02_DeteccaoAjusteAngulo =
+
+Camera02_ExibirImagemAoVivo = false
+Camera02_GravarImagemAoVivo = false
+Camera02_debugDeteccaoVeiculo = false
+
+Camera02_URLConexao =
+;-------------------------------------------------------------------------------------------
+[CONEXAO]
+;-------------------------------------------------------------------------------------------
+apiKey = 9A1FEB354C6F4280B3A36D30E47A2BC6
+qtdeThreadsEnvioAntigas = 4
+urlBDPlacas = host=177.43.90.167;port=3306;user=axion;password=axion123ab;db=classificacao;compress=true;auto-reconnect=true
+urlServidorOCR = 177.43.90.167:50052
+urlServidorOpenALPR = https://api.openalpr.com/v3/recognize?recognize_vehicle=1&country=br
+apiKeyOpenALPR = sk_06e132d6dfa50fb9068e289b
+urlServidorPlateRecognizer = https://api.platerecognizer.com/v1/plate-reader/
+apiKeyRecognizer = 2fa3c7fa7a4a894cbbb6d8ca2674b7c8765a2a6d
+
+;-------------------------------------------------------------------------------------------
+[DIRETORIOS]
+;-------------------------------------------------------------------------------------------
+DiretorioImagemTeste = /home/axionocr002/appOCR/Imagens/ImagemTeste
+DiretorioCapturas = /home/axionocr002/appOCR/Imagens/Capturas
+DiretorioPassagens = /home/axionocr002/appOCR/Imagens/Passagens/
+DiretorioSemPlacas = /home/axionocr002/appOCR/Imagens/SemPlacas/
+DiretorioLeituras = /home/axionocr002/appOCR/Imagens/Leituras/
+DiretorioSimulacao = /home/eduardo/Área de Trabalho/ImagensOCR/AoVivo/Camera05
+DiretorioImagensAoVivo =  /home/axionocr002/appOCR/Imagens/AoVivo/
+DiretorioDebug = /home/axionocr002/appOCR/Imagens/Debug/
+DiretorioArquivoContagem = /home/axionocr002/appOCR/Imagens/
+DiretorioImagem = /home/axionocr002/appOCR/Imagens
+
+;-------------------------------------------------------------------------------------------
+[IMAGENS]
+;-------------------------------------------------------------------------------------------
+;Pode ser gerado o nome padrao ou com o código MD5 da imagem
+PadraoNomeImagem = padrao
+CodigoTipoImagem = ZF
+
+;-------------------------------------------------------------------------------------------
+[OCR]
+;-------------------------------------------------------------------------------------------
+TaxaConfianca = 75
+RealizarLeituraPlacaLocal = false
+RealizarLeituraPlacaServidor = true
+RealizarLeituraPlacaOPENALPR = false
+;Pode ser utilizada as seguintes engines: AXION | JIDOSHA | OPENALPR
+EngineOCRLocal = AXION
+QtdeMaximaFramesOCRPorPassagem = 30
+LerApenasPrimeiraPlaca = true
+QtdeFramesSemPlacaAposPrimeiraPlaca = 2
+HabilitarFiltroSharpen = true
+RealizarLeituraPlacaPlateRecognizer = false
+RealizarLeituraPlacaCaminhoesNovaTentativa = DESATIVADO
+
+;-------------------------------------------------------------------------------------------
+[WATCHDOG]
+;-------------------------------------------------------------------------------------------
+QtdeMaximaPassagensNoPool = 30
+TimeoutCamera = 6000
+
+
+</sample>
 
 
 ### **Opções de Configuração**:
