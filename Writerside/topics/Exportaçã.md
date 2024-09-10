@@ -1,8 +1,10 @@
 # Exportação
+**A exportação** de lote é um processo automatizado ou manual que permite a extração de um conjunto de dados ou registros de um sistema para um arquivo externo, com o objetivo de realizar backups, integração com outros sistemas ou análises externas. Este processo pode ser configurado de diferentes maneiras, dependendo das necessidades e da estrutura do sistema.
 
-Para criar a documentação para cada parte das imagens fornecidas, vou guiar você pelos principais elementos e descrever o que deve ser incluído em cada seção.
+![image_18.png](image_18.png)
 
-### 1. Visão Geral do Lote de Exportação:
+#### Informações Importantes sobre Lotes de Exportação
+
 - **Arquivo**: Esta coluna indica se o arquivo associado ao lote de exportação foi gerado com sucesso. Um ícone verde indica que o processo foi bem-sucedido.
 - **ID da Exportação**: Este é o identificador exclusivo para cada lote de exportação. Ele ajuda no rastreamento e na referência de registros específicos de exportação.
 - **Data Geração**: A data em que o lote de exportação foi criado. É crucial para entender a linha do tempo do processamento dos dados.
@@ -13,15 +15,21 @@ Para criar a documentação para cada parte das imagens fornecidas, vou guiar vo
 - **Status**: Indica o status atual do lote de exportação, se foi bem-sucedido ("Ok") ou se houve problemas.
 - **Ações**: Esta coluna inclui ações que você pode realizar para cada lote de exportação, como visualizar detalhes ou excluir o lote.
 
-### 2. Visão Detalhada do Lote de Exportação:
-- **Data Início e Data Fim**: Filtra os registros por um intervalo de datas específico.
-- **Tipo de Infração e Enquadramento**: Permite filtrar pelo tipo de infração e categorização ou classificação legal específica.
-- **Pré-Visualizar**: Este botão permite que o usuário visualize os registros antes de exportá-los.
-- **Exportar**: Este botão finaliza o processo de exportação.
-- **Lista de Infrações**: A tabela lista todas as infrações que correspondem aos filtros. Cada linha contém detalhes como:
-    - **Imagem**: Uma imagem relacionada à infração.
-    - **Dt. Infração**: A data da infração.
-    - **Placa**: A placa do veículo.
-    - **Equipamento**: O dispositivo ou equipamento usado para registrar a infração.
-    - **Local**: O local onde a infração ocorreu.
+![image_19.png](image_19.png)
+
+#### Consulta de Passagem para Exportação
+
+- **Data Início**: Indica a data de início da geração do lote de exportação. Um ícone verde ao lado desta coluna sinaliza que o arquivo foi gerado com sucesso, indicando que o processo de exportação foi concluído corretamente.
+
+- **Data Fim**: Exibe a data de término da geração do lote. Essa informação é importante para acompanhar a linha do tempo do processamento e verificar quando o lote foi finalizado.
+
+- **Tipo de Infração**: Classifica o tipo de infração registrado no lote de exportação, como "Velocidade", "Sinal Vermelho", etc. Isso facilita a categorização e filtragem dos dados exportados com base no tipo de violação.
+
+- **Enquadramento**: Indica o período coberto pelo lote de exportação, exibindo o intervalo de datas das infrações ou dados processados. É útil para identificar o período de tempo específico ao qual os dados exportados se referem.
+
+- **Pré-Visualizar**: Oferece a possibilidade de visualizar os dados antes da exportação. Isso permite verificar os detalhes do lote e confirmar que todas as informações estão corretas antes de concluir o processo.
+
+- **Exportar**: Mostra o número total de registros incluídos no lote de exportação. Essa informação é importante para garantir que todos os dados esperados foram incluídos no arquivo exportado.
+
+
 

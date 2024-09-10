@@ -1,3 +1,3 @@
 # Nova Medição
 
-Start typing here...
+![image_38.png](image_38.png)

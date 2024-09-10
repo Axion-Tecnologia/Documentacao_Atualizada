@@ -89,7 +89,8 @@ Após configurar o Axsync, é necessário ajustar as configurações do OCR para
 
 - As Configurações das câmeras são realizadas no arquivo **parametros.config**
 
-- As configurações das câmeras devem ser feitas de maneira que cada uma possua um endereço IP exclusivo. Por exemplo:
+- As configurações das câmeras devem ser feitas de maneira que cada uma possua um endereço IP exclusivo.
+Por exemplo:
 1. Câmera 1: 192.168.1.91
 2. Câmera 2: 192.168.1.90
 

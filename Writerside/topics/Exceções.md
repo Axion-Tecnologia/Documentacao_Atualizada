@@ -1,8 +1,8 @@
 # Exceções
 
+![image_16.png](image_16.png)
 
-### 1. **Exceções - Tela Principal**
-**Descrição:** Esta tela exibe todas as exceções cadastradas no sistema. Cada exceção está associada a um equipamento específico e possui um intervalo de datas em que a exceção é válida. A coluna "Motivo Descarte" indica o motivo pelo qual uma infração foi descartada automaticamente.
+ Esta tela exibe todas as exceções cadastradas no sistema. Cada exceção está associada a um equipamento específico e possui um intervalo de datas em que a exceção é válida. A coluna "Motivo Descarte" indica o motivo pelo qual uma infração foi descartada automaticamente.
 
 **Campos e Funcionalidades:**
 - **Descrição:** Indica a descrição da exceção.
@@ -15,19 +15,21 @@
 - **Adicionar Nova Exceção:** Botão para adicionar uma nova exceção.
 - **Editar/Excluir:** Ícones para editar ou remover uma exceção existente.
 
-### 2. **Cadastro de Exceção - Geral**
-**Descrição:** Esta aba permite o cadastro geral de uma nova exceção no sistema, onde são configurados a descrição, o intervalo de datas de vigência, e o motivo de descarte.
+####  Nova de Exceção (Geral)
+![image_17.png](image_17.png)
+
+Esta aba permite o cadastro geral de uma nova exceção no sistema, onde são configurados a descrição, o intervalo de datas de vigência, e o motivo de descarte.
 
 **Campos e Funcionalidades:**
-- **Descrição:** Nome da exceção que será exibida na listagem principal.
+- Nome da exceção que será exibida na listagem principal.
 - **Data Início e Data Fim:** Período de validade da exceção.
 - **Motivo Descarte:** Selecione o motivo pelo qual as infrações serão descartadas dentro deste período.
 
 **Ações:**
 - **Salvar:** Botão para salvar a exceção configurada.
 
-### 3. **Cadastro de Exceção - Faixas**
-**Descrição:** Permite associar faixas específicas à exceção. Essas faixas indicam as vias ou pistas que serão afetadas pela exceção cadastrada.
+####  Faixas
+ Permite associar faixas específicas à exceção. Essas faixas indicam as vias ou pistas que serão afetadas pela exceção cadastrada.
 
 **Campos e Funcionalidades:**
 - **Equipamento:** Equipamento ao qual a exceção será associada.
@@ -37,8 +39,8 @@
 - **Adicionar:** Botão para adicionar uma nova faixa à exceção.
 - **Apagar:** Botão para remover uma faixa associada.
 
-### 4. **Cadastro de Exceção - Horários**
-**Descrição:** Configura os horários em que a exceção estará ativa.
+####  Horários
+Configura os horários em que a exceção estará ativa.
 
 **Campos e Funcionalidades:**
 - **Hora Início e Hora Fim:** Determina o intervalo de tempo em que a exceção será válida durante o dia.
@@ -48,8 +50,8 @@
 - **Adicionar:** Botão para adicionar um novo intervalo de horário.
 - **Apagar:** Botão para remover um intervalo de horário associado.
 
-### 5. **Cadastro de Exceção - Datas**
-**Descrição:** Define datas específicas em que a exceção será aplicada, independentemente do intervalo de horários configurado.
+###  Datas
+ Define datas específicas em que a exceção será aplicada, independentemente do intervalo de horários configurado.
 
 **Campos e Funcionalidades:**
 - **Data/Hora Início e Data/Hora Fim:** Especifica as datas e horas exatas para a exceção.
@@ -58,8 +60,8 @@
 - **Adicionar:** Botão para adicionar uma nova data.
 - **Apagar:** Botão para remover uma data específica.
 
-### 6. **Cadastro de Exceção - Equipamentos**
-**Descrição:** Associa tipos de infração e equipamentos específicos à exceção.
+### Equipamentos
+ Associa tipos de infração e equipamentos específicos à exceção.
 
 **Campos e Funcionalidades:**
 - **Tipo de Infração:** Tipo específico de infração a ser associado à exceção.
@@ -69,7 +71,7 @@
 - **Adicionar:** Botão para associar um novo equipamento.
 - **Apagar:** Botão para remover um equipamento associado.
 
-### 7. **Cadastro de Exceção - Classificações**
+### Classificações
 **Descrição:** Permite configurar as classificações de veículos que serão afetadas pela exceção.
 
 **Campos e Funcionalidades:**
@@ -80,8 +82,8 @@
 - **Adicionar:** Botão para associar uma nova classificação de veículo.
 - **Apagar:** Botão para remover uma classificação associada.
 
-### 8. **Cadastro de Exceção - Placas**
-**Descrição:** Permite associar placas específicas de veículos à exceção.
+### Placas
+ Permite associar placas específicas de veículos à exceção.
 
 **Campos e Funcionalidades:**
 - **Placa:** Insira a placa do veículo que estará isento de infrações durante o período da exceção.

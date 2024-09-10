@@ -1,3 +1,5 @@
 # Grupos de Equipamentos
 
-Start typing here...
+![image_35.png](image_35.png)
+
+![image_36.png](image_36.png)

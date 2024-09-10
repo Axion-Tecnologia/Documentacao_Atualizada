@@ -1,8 +1,7 @@
 # Auditoria
-
-
-#### **Objetivo:**
 O módulo de **Auditoria de Infrações** é utilizado para revisar, corrigir e validar as infrações registradas. Essa funcionalidade é essencial para garantir que as infrações processadas sejam corretas e que erros ou inconsistências sejam devidamente ajustados.
+
+![image_14.png](image_14.png)
 
 #### **Componentes Principais:**
 
@@ -32,7 +31,7 @@ O módulo de **Auditoria de Infrações** é utilizado para revisar, corrigir e 
         - **Motivo:** Seleção do motivo da infração ou correção do motivo.
         - **Classificação do Veículo:** Inclusão de detalhes do veículo, como marca/modelo, tipo, cor, município, etc.
     - **Ações:** O usuário pode processar a infração, alterar os dados ou consultar o histórico e detalhes adicionais.
-
+![image_15.png](image_15.png)
 #### **Procedimentos Operacionais:**
 
 1. **Filtragem e Identificação de Infrações:**

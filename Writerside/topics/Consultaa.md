@@ -2,7 +2,6 @@
 
 ![image_2.png](image_2.png)
 
-### **Objetivo:**
 O módulo de **Consultas Últimas 24h** oferece uma visão detalhada das consultas realizadas nas últimas 24 horas, permitindo monitoramento e análise em tempo real do estado dos cronotacógrafos dos veículos.
 
 ### **Componentes Principais:**

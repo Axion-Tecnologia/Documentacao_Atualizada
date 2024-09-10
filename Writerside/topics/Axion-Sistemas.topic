@@ -6,7 +6,6 @@
 
     <section-starting-page>
         <title>Axion</title>
-<description instance="hi">Esta documentação proporciona uma base sólida para organizar e detalhar as funcionalidades e processos dos sistemas Axion.</description>
         <spotlight>
             <a href="Axhub.md" type="development" summary="Descubra tudo sobre as funcionalidades dos Sistemas">
                 Começando

@@ -38,10 +38,10 @@
         </toc-element>
         <toc-element toc-title="Equipamento">
             <toc-element topic="Equipamentoss.md"/>
-            <toc-element topic="Modelos-Equipamento.md"/>
             <toc-element topic="Grupos-de-Equipamentod.md"/>
             <toc-element topic="Tipos-de-Equipamentos.md"/>
             <toc-element topic="Fabricantes.md"/>
+            <toc-element topic="Modelos-Equipamento.md"/>
         </toc-element>
         <toc-element toc-title="Medição">
             <toc-element topic="Nova-Medição.md"/>

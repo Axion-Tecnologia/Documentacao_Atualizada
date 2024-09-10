@@ -1,6 +1,6 @@
 # Operações
+![image_24.png](image_24.png)
 
-#### **Objetivo:**
 O módulo de **Operações** permite a gestão e o monitoramento de operações associadas a equipamentos, incluindo a configuração de parâmetros, acompanhamento de status, e geração de relatórios. Esta ferramenta é essencial para garantir a conformidade dos equipamentos e para facilitar o acompanhamento das operações realizadas.
 
 #### **Componentes Principais:**
@@ -26,7 +26,9 @@ O módulo de **Operações** permite a gestão e o monitoramento de operações 
       - **Operador:** Filtra as operações por operador responsável.
       - **Operação:** Seleção da operação específica.
    - **Lista de Operações Ativas:** Exibe operações em andamento com detalhes como hora de início, operador, e status atual.
-
+   
+![image_25.png](image_25.png)
+   
 3. **Detalhamento da Operação:**
    - **Dashboard:** Exibe um resumo geral da operação, com gráficos e indicadores-chave, como:
       - **Infração x Triagem:** Relaciona infrações captadas pelo equipamento durante a operação e o status de triagem das mesmas.
@@ -58,4 +60,3 @@ O módulo de **Operações** permite a gestão e o monitoramento de operações 
    - Acesse a aba **Documentos** para anexar e gerenciar todos os documentos relacionados à operação.
    - Utilize a funcionalidade de **Exportar** para gerar relatórios detalhados ao término da operação, garantindo que todas as atividades estejam documentadas e acessíveis para auditoria.
 
-Essa documentação visa assegurar que todos os usuários do módulo de Operações tenham um guia claro e detalhado de como configurar, monitorar e finalizar operações de forma eficiente.

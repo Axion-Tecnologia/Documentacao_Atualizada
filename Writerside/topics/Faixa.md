@@ -1,8 +1,7 @@
 # Faixa
 
-Vamos documentar a funcionalidade "Faixa" do Axhub baseada nas imagens que você enviou. Vou criar uma seção de documentação para essa funcionalidade.
+![image_28.png](image_28.png)
 
-#### Visão Geral
 A funcionalidade "Faixa" no Axhub permite aos usuários visualizar, editar e gerenciar faixas relacionadas ao tráfego, com informações específicas como código, número da faixa, sentido, e endereço. Esta seção da aplicação é crucial para o gerenciamento das faixas e sua localização precisa.
 
 #### Tela de Listagem de Faixas
@@ -14,8 +13,10 @@ A funcionalidade "Faixa" no Axhub permite aos usuários visualizar, editar e ger
     - **Endereço:** Localização completa da faixa, incluindo logradouro, bairro, município, e coordenadas (latitude e longitude).
     - **Ações:** Permite ao usuário editar ou excluir uma faixa existente.
 
-#### Tela de Edição de Faixa
-- **Objetivo:** Permitir a edição detalhada das informações de uma faixa específica.
+#### Criação  de Faixa
+![image_29.png](image_29.png)
+
+-  Permitir a edição detalhada das informações de uma faixa específica.
 - **Campos Disponíveis:**
     - **Código:** Identificação única da faixa. Este campo é preenchido automaticamente e não é editável.
     - **Número da Faixa:** Identifica o número da faixa dentro da via.
@@ -39,6 +40,4 @@ A funcionalidade "Faixa" no Axhub permite aos usuários visualizar, editar e ger
 2. **Edição:** Ao clicar no ícone de edição na coluna "Ações", o usuário é redirecionado para a tela de edição da faixa, onde pode atualizar as informações de localização e características da faixa.
 3. **Salvamento:** Após realizar as alterações, o usuário clica no botão "Salvar" para atualizar as informações da faixa no sistema.
 
----
 
-Se precisar de mais alguma coisa ou de ajustes na documentação, é só avisar!

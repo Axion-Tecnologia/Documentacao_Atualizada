@@ -1,6 +1,7 @@
 # Eventos Equipamentos
 
-#### **Objetivo:**
+![image_26.png](image_26.png)
+
 O módulo de **Eventos de Equipamentos** permite o monitoramento e a gestão dos eventos relacionados aos equipamentos cadastrados no sistema. Ele possibilita o acompanhamento de falhas e correções em tempo real, garantindo que os equipamentos operem corretamente e que problemas sejam rapidamente identificados e solucionados.
 
 #### **Componentes Principais:**
@@ -12,7 +13,9 @@ O módulo de **Eventos de Equipamentos** permite o monitoramento e a gestão dos
     - **Horário do Evento:** Permite filtrar os eventos de acordo com o horário específico em que ocorreram.
     - **Status do Evento:** Filtra os eventos entre "Correção" e "Falha", para facilitar a visualização do estado atual dos equipamentos.
     - **Descrição:** Campo para inserir palavras-chave que permitam filtrar eventos com base em descrições específicas.
-
+   
+![image_27.png](image_27.png)
+   
 2. **Listagem de Eventos:**
     - **Código do Equipamento:** Exibe o código identificador de cada equipamento.
     - **Descrição:** Apresenta a descrição do evento, como "Retorno de comunicação do equipamento" ou "Falha de comunicação do equipamento".
@@ -45,4 +48,3 @@ O módulo de **Eventos de Equipamentos** permite o monitoramento e a gestão dos
     - Para eventos marcados como "Falha", utilize a funcionalidade de "Editar" nas ações para atualizar o status do evento quando a correção for aplicada.
     - Verifique regularmente a lista de eventos para garantir que todos os problemas sejam resolvidos de forma oportuna, garantindo a continuidade operacional dos equipamentos.
 
-Esta documentação cobre as funcionalidades essenciais do módulo "Eventos de Equipamentos" e oferece uma visão geral sobre como utilizá-lo de forma eficiente. Para qualquer dúvida adicional ou configuração específica, é recomendável consultar o suporte técnico ou o manual detalhado do sistema.

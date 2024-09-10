@@ -1,6 +1,6 @@
 # Triagem
 ![image_13.png](image_13.png)
-#### **Objetivo:**
+
 O módulo de **Triagem de Infração** permite a análise e o processamento de infrações relacionadas ao uso de Infração em veículos. Esta funcionalidade é crucial para garantir que as infrações sejam identificadas, processadas e classificadas adequadamente.
 #### **Componentes Principais:**
 
