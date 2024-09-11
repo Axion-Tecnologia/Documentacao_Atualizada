@@ -29,3 +29,6 @@ Permitir a edição e atualização dos parâmetros classificativos de uma categ
 - **UVP (Unidade Veicular Padrão):** Unidade padrão para o veículo dentro do sistema.
 
 
+<warning>
+Parte muito importante no sistema na parte de Triagem
+</warning>
