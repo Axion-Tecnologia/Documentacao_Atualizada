@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/image_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/logo-icon-light 1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Classificações-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Classificações-Veiculos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cores.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Empty-MD-Topic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Empty-MD-Topic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Espécie-Veiculo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Espécie-Veiculo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/Marcas-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Marcas-Veiculos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/topics/Modelos-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Modelos-Veiculos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Municipio.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Municipio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +51,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Writerside/hi.tree" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Writerside/topics/AXSYNC.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Writerside/topics/Arcos.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Writerside/topics/Ativos.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Writerside/topics/AxManage.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
@@ -108,25 +120,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinic/Documentacao_Atualizada&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vinic/Documentacao_Atualizada/Writerside/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\Documentacao_Atualizada\Writerside\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

@@ -2,7 +2,14 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <primary-color>aqua</primary-color>
+        <custom-favicons></custom-favicons>
+        <header-logo>logo-icon-light%201.svg</header-logo>
+        <product-web-url>https:AxionDocumentacao.com</product-web-url>
+        <download-title>Axion Tecnologia</download-title>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
