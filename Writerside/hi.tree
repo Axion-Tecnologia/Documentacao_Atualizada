@@ -121,6 +121,7 @@
     <toc-element toc-title="AXSYNC">
         <toc-element topic="AXSYNC.md">
             <toc-element topic="OCR.md"/>
+            <toc-element topic="Configurações-do-Linnux-Lite.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>

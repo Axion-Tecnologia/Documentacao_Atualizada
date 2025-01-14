@@ -1,0 +1,2 @@
+# Configurações do Linnux Lite
+
