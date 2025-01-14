@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/image_59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/images/logo-icon-light 1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Cores.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Cores.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Empty-MD-Topic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Empty-MD-Topic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Espécie-Veiculo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Espécie-Veiculo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Marcas-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Marcas-Veiculos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Modelos-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Modelos-Veiculos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Municipio.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Municipio.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Veiculos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +107,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -137,6 +121,15 @@
     "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
     "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+      "C:/Users/vinic/Documentacao_Atualizada/Writerside/topics/AXSYNC.md",
+      "C:/Users/vinic/Documentacao_Atualizada/Writerside/topics/AxManage.md",
+      "C:/Users/vinic/Documentacao_Atualizada/Writerside/topics/OCR.md",
+      "C:/Users/vinic/Documentacao_Atualizada/Writerside/topics/Passo-a-Passo.md",
+      "C:/Users/vinic/Documentacao_Atualizada/Writerside/topics/Pesagem.md"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
