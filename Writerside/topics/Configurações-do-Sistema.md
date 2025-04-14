@@ -59,5 +59,3 @@ O exemplo de implementação da assinatura digital está disponível no arquivo 
 📎 **Sign – Csharp.zip**
 
 ---
-
-Se quiser, posso transformar isso em Markdown pronto para colar no WriteSide, ou gerar em outro formato (HTML, PDF etc.). Deseja isso?

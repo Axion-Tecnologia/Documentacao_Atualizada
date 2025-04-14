@@ -62,7 +62,6 @@ Este método assegura:
 ## **Material de Apoio**
 
 📎 **Encrypt – Csharp.zip**  
-Contém exemplos práticos da implementação do processo de criptografia em C#.
 
 ---
 
