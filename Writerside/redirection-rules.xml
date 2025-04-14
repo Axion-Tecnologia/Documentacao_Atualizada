@@ -263,4 +263,124 @@
         <description>Created after removal of "Sequênciais Infrações" from Axion</description>
         <accepts>Sequenciais-Infração.html</accepts>
     </rule>
+    <rule id="2923623e">
+        <description>Created after removal of "Equipamentos" from Axion</description>
+        <accepts>Equipamentoss.html</accepts>
+    </rule>
+    <rule id="3b2c64a8">
+        <description>Created after removal of "Grupos de Equipamentos" from Axion</description>
+        <accepts>Grupos-de-Equipamentod.html</accepts>
+    </rule>
+    <rule id="e3a5be0">
+        <description>Created after removal of "Tipos de Equipamentos" from Axion</description>
+        <accepts>Tipos-de-Equipamentos.html</accepts>
+    </rule>
+    <rule id="621acfc0">
+        <description>Created after removal of "Fabricantes" from Axion</description>
+        <accepts>Fabricantes.html</accepts>
+    </rule>
+    <rule id="704f70dc">
+        <description>Created after removal of "Modelos Equipamento" from Axion</description>
+        <accepts>Modelos-Equipamento.html</accepts>
+    </rule>
+    <rule id="370297ce">
+        <description>Created after removal of "Nova Medição" from Axion</description>
+        <accepts>Nova-Medição.html</accepts>
+    </rule>
+    <rule id="3bec5955">
+        <description>Created after removal of "Medições Finalizadas" from Axion</description>
+        <accepts>Mediç-eos-Finalizadas.html</accepts>
+    </rule>
+    <rule id="ad4d511">
+        <description>Created after removal of "Interrupções" from Axion</description>
+        <accepts>Interrupções.html</accepts>
+    </rule>
+    <rule id="5a5a0332">
+        <description>Created after removal of "Recursos" from Axion</description>
+        <accepts>Recursos.html</accepts>
+    </rule>
+    <rule id="79862370">
+        <description>Created after removal of "Contratos" from Axion</description>
+        <accepts>Contratoss.html</accepts>
+    </rule>
+    <rule id="3125864">
+        <description>Created after removal of "Indices de Perfomance" from Axion</description>
+        <accepts>indices-de-Perfomance.html</accepts>
+    </rule>
+    <rule id="410e9a70">
+        <description>Created after removal of "Eventos do Equipamentos" from Axion</description>
+        <accepts>t.html</accepts>
+    </rule>
+    <rule id="359f1057">
+        <description>Created after removal of "Relatorio de Passagem" from Axion</description>
+        <accepts>Relatorio-de-Passagem.html</accepts>
+    </rule>
+    <rule id="3139c70e">
+        <description>Created after removal of "Falha Sequências" from Axion</description>
+        <accepts>Falha-Sequências.html</accepts>
+    </rule>
+    <rule id="724d9392">
+        <description>Created after removal of "Fluxo Diario de Véiculos" from Axion</description>
+        <accepts>Fluxo-Diario-de-Véiculos.html</accepts>
+    </rule>
+    <rule id="3e6f73ac">
+        <description>Created after removal of "Relatório de Lote de Importação" from Axion</description>
+        <accepts>Relatório-de-Lote-de-Importação.html</accepts>
+    </rule>
+    <rule id="68c1fd82">
+        <description>Created after removal of "Relatório de Mapa de Fluxo de Passagens" from Axion</description>
+        <accepts>Relatório-de-Mapa-de-Fluxo-de-Passagens.html</accepts>
+    </rule>
+    <rule id="6bb0ddba">
+        <description>Created after removal of "Relatório de Mapa de Teste de Equipamentos" from Axion</description>
+        <accepts>Relatório-de-Mapa-de-Teste-de-Equipamentos.html</accepts>
+    </rule>
+    <rule id="527f862">
+        <description>Created after removal of "Relatório de Processamento de Imagens" from Axion</description>
+        <accepts>Relatório-de-Processamento-de-Imagens.html</accepts>
+    </rule>
+    <rule id="3085ccc8">
+        <description>Created after removal of "Processamento Por Usuario" from Axion</description>
+        <accepts>Processamento-Por-Usuario.html</accepts>
+    </rule>
+    <rule id="1bfb3499">
+        <description>Created after removal of "Relatórios de Infrações" from Axion</description>
+        <accepts>Relatórios-de-Infrações.html</accepts>
+    </rule>
+    <rule id="e3a0b21">
+        <description>Created after removal of "Relatorio de Passagem" from Axion</description>
+        <accepts>Relatorio-de-Passagem-e.html</accepts>
+    </rule>
+    <rule id="70fa2e3e">
+        <description>Created after removal of "Relatorio de Discrepâncias" from Axion</description>
+        <accepts>Relatorio-de-Discrepâncias.html</accepts>
+    </rule>
+    <rule id="481731d5">
+        <description>Created after removal of "Relatorios de logs de Envios" from Axion</description>
+        <accepts>Relatorios-de-logs-de-Envios.html</accepts>
+    </rule>
+    <rule id="5b571094">
+        <description>Created after removal of "Relatorio BI" from Axion</description>
+        <accepts>Relatorio-BI.html</accepts>
+    </rule>
+    <rule id="38dc1c76">
+        <description>Created after removal of "Perfil de Acesso" from Axion</description>
+        <accepts>Perfil-de-Acesso.html</accepts>
+    </rule>
+    <rule id="f305ccc">
+        <description>Created after removal of "Permissões" from Axion</description>
+        <accepts>Permissões.html</accepts>
+    </rule>
+    <rule id="10075960">
+        <description>Created after removal of "Usuarios" from Axion</description>
+        <accepts>Usuarios.html</accepts>
+    </rule>
+    <rule id="73716841">
+        <description>Created after removal of "Logs de Acessos" from Axion</description>
+        <accepts>Logs-de-Acessos.html</accepts>
+    </rule>
+    <rule id="1a0ad991">
+        <description>Created after removal of "Controle de Acesso" from Axion</description>
+        <accepts>Controle-de-Acesso.html</accepts>
+    </rule>
 </rules>
