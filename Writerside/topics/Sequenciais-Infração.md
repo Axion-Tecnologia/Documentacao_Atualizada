@@ -1,3 +1,0 @@
-# Sequênciais Infrações
-
-Start typing here...

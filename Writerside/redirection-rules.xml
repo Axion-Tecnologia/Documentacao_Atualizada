@@ -215,4 +215,52 @@
         <description>Created after removal of "Motivos" from Axion</description>
         <accepts>Motvios.html</accepts>
     </rule>
+    <rule id="683fcb67">
+        <description>Created after removal of "Tipos de Imagens" from Axion</description>
+        <accepts>Tipos-de-Imagens.html</accepts>
+    </rule>
+    <rule id="249d8fcd">
+        <description>Created after removal of "Configurações de Enquadramento" from Axion</description>
+        <accepts>Configurações-de-Enquadramento.html</accepts>
+    </rule>
+    <rule id="4771ae8c">
+        <description>Created after removal of "Relatorio do Power BI" from Axion</description>
+        <accepts>Relatorio-do-Power-BI.html</accepts>
+    </rule>
+    <rule id="11ef42bc">
+        <description>Created after removal of "Enquadramentos" from Axion</description>
+        <accepts>Enquadramentos.html</accepts>
+    </rule>
+    <rule id="4024a68e">
+        <description>Created after removal of "Sequências Lotes Exportação" from Axion</description>
+        <accepts>Sequencias-Lotes-Exportação.html</accepts>
+    </rule>
+    <rule id="3c0e57f6">
+        <description>Created after removal of "Tarjas" from Axion</description>
+        <accepts>Tarjas.html</accepts>
+    </rule>
+    <rule id="104693ca">
+        <description>Created after removal of "Tipos de Aferições" from Axion</description>
+        <accepts>Tipos-de-Aferições.html</accepts>
+    </rule>
+    <rule id="1e9d91d3">
+        <description>Created after removal of "Formas de Autação" from Axion</description>
+        <accepts>Formas-de-Autação.html</accepts>
+    </rule>
+    <rule id="60af4dd1">
+        <description>Created after removal of "Layouts Arquivos" from Axion</description>
+        <accepts>Layouts-Arquivos.html</accepts>
+    </rule>
+    <rule id="4723024">
+        <description>Created after removal of "Motivos de Descarte" from Axion</description>
+        <accepts>Motivos-de-Descarte.html</accepts>
+    </rule>
+    <rule id="5a9afb90">
+        <description>Created after removal of "Regiões" from Axion</description>
+        <accepts>Regiões.html</accepts>
+    </rule>
+    <rule id="455a5ad4">
+        <description>Created after removal of "Sequênciais Infrações" from Axion</description>
+        <accepts>Sequenciais-Infração.html</accepts>
+    </rule>
 </rules>

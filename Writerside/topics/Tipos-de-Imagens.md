@@ -1,3 +1,0 @@
-# Tipos de Imagens
-
-Start typing here...

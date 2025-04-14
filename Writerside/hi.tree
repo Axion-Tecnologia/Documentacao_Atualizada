@@ -75,19 +75,9 @@
         </toc-element>
         <toc-element toc-title="Configurações">
             <toc-element topic="Arcos.md"/>
-            <toc-element topic="Configurações-de-Enquadramento.md"/>
             <toc-element topic="Configurações-do-Sistema.md"/>
-            <toc-element topic="Enquadramentos.md"/>
-            <toc-element topic="Formas-de-Autação.md"/>
-            <toc-element topic="Layouts-Arquivos.md"/>
-            <toc-element topic="Motivos-de-Descarte.md"/>
-            <toc-element topic="Regiões.md"/>
-            <toc-element topic="Relatorio-do-Power-BI.md"/>
-            <toc-element topic="Sequencias-Lotes-Exportação.md"/>
-            <toc-element topic="Sequenciais-Infração.md"/>
-            <toc-element topic="Tarjas.md"/>
-            <toc-element topic="Tipos-de-Aferições.md"/>
-            <toc-element topic="Tipos-de-Imagens.md"/>
+            <toc-element topic="Criptografia_de_Arquivos.md"/>
+            <toc-element topic="Certificado_Digital.md"/>
             <toc-element topic="Webhooks.md"/>
         </toc-element>
     </toc-element>

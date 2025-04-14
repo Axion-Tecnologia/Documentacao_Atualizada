@@ -1,3 +1,0 @@
-# Relatorio do Power BI
-
-Start typing here...
