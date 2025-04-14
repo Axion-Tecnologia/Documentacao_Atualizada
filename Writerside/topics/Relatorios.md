@@ -18,7 +18,7 @@ A seção de relatórios do sistema AxCross é uma ferramenta essencial para o a
 
 2. **Relatório de Mapeamento de Rotas**
     - **Finalidade**: Facilita o rastreamento de rotas específicas de veículos, ajudando a identificar padrões de deslocamento e pontos críticos.
-    - **Filtros Disponíveis**:
+    - Filtros Disponíveis**:
         - Placa do veículo
         - Cerco Eletrônico
         - Rota de Entrada ou Saída

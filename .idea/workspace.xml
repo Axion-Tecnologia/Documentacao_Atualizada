@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Certificado_Digital.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Criptografia_de_Arquivos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações-de-Enquadramento.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Configurações-do-Sistema.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Enquadramentos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Formas-de-Autação.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Layouts-Arquivos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Motivos-de-Descarte.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Regiões.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Relatorio-do-Power-BI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Sequenciais-Infração.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Sequencias-Lotes-Exportação.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tarjas.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Aferições.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Tipos-de-Imagens.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Relatorios.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +196,7 @@
       <workItem from="1723464600349" duration="31000" />
       <workItem from="1723464931640" duration="5000" />
       <workItem from="1744643612695" duration="75000" />
-      <workItem from="1744643707377" duration="1265000" />
+      <workItem from="1744643707377" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -503,7 +486,39 @@
       <option name="project" value="LOCAL" />
       <updated>1723040156459</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1744649013768</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649013768</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1744649023410</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649023410</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1744649128932</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649128932</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1744649136618</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649136618</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
