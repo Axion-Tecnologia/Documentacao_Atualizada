@@ -196,7 +196,7 @@
       <workItem from="1723464600349" duration="31000" />
       <workItem from="1723464931640" duration="5000" />
       <workItem from="1744643612695" duration="75000" />
-      <workItem from="1744643707377" duration="1690000" />
+      <workItem from="1744643707377" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -518,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744649136618</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1744649424434</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649424434</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
