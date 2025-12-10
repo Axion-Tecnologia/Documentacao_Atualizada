@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Resolve conflitos após pull">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Balança.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Balança.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Your Name &lt;you@example.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="feature/doc-ax-hub" />
@@ -26,12 +31,12 @@
     &quot;assignee&quot;: &quot;viniciuscm09&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/viniciuscm09/Documentacao_Atualizada.git&quot;,
-    &quot;accountId&quot;: &quot;6acf0710-33c2-48c5-a2ae-81d34ceb9624&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Axion-Tecnologia/Documentacao_Atualizada.git",
+    "accountId": "a3654325-d2a8-4214-9798-182cffde9b41"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Writerside/hi.tree" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Writerside/topics/AXSYNC.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
@@ -111,8 +116,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vinic/source/repos/Documentacao_Atualizada",
     "node.js.detected.package.eslint": "true",
@@ -122,6 +129,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/vinic/TI - 2024/Documentacao_ Atualizada/src/Main.java",
     "settings.editor.selected.configurable": "fileTemplates",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -134,6 +142,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
       </set>
     </attachedChunks>
   </component>
@@ -199,6 +208,7 @@
       <workItem from="1744643612695" duration="75000" />
       <workItem from="1744643707377" duration="1745000" />
       <workItem from="1765388577477" duration="55000" />
+      <workItem from="1765388649086" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="Resolve conflitos após pull">
       <option name="closed" value="true" />
@@ -528,7 +538,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744649424434</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1765388789713</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1765388789713</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Resolve conflitos após pull">
+      <option name="closed" value="true" />
+      <created>1765388798141</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1765388798141</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1765388872562</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1765388872562</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +591,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolve conflitos após pull" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolve conflitos após pull" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
