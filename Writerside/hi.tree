@@ -56,21 +56,6 @@
         <toc-element topic="Exportação.md"/>
         <toc-element topic="BTN.md"/>
     </toc-element>
-    <toc-element topic="AxManage.md">
-        <toc-element topic="Cadastramento-de-Equipamentos.md">
-        </toc-element>
-        <toc-element toc-title="Importação de Equipamento">
-            <toc-element topic="Ativos.md">
-                <toc-element topic="Adicionando-Componentes.md"/>
-            </toc-element>
-        </toc-element>
-        <toc-element topic="Contrato.md"/>
-        <toc-element topic="Operações.md"/>
-        <toc-element topic="Mapa-de-Operações.md"/>
-        <toc-element topic="Mapa-ao-Vivo.md"/>
-        <toc-element topic="Configurações.md"/>
-        <toc-element topic="Alertas.md"/>
-    </toc-element>
     <toc-element toc-title="AXSYNC">
         <toc-element topic="AXSYNC.md">
             <toc-element topic="OCR.md"/>
