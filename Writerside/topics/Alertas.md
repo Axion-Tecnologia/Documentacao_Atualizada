@@ -1,5 +1,5 @@
 
-# Alertas
+# Alertas 
 
 ### Visão Geral
 A funcionalidade "Alertas" permite configurar e gerenciar notificações dentro do sistema. Usuários podem definir alertas para diversas situações e personalizar o modo de entrega das notificações, garantindo que as informações críticas sejam comunicadas de maneira eficaz e oportuna.

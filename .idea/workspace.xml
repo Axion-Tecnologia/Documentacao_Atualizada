@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c597ab4-5c4a-41ea-805d-8abea8b903cd" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Controle-de-Acesso.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Controle-de-Acesso.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Alertas.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Alertas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Triagem-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Triagem-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -569,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765388872562</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1770835055662</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1770835055663</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
