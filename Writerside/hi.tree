@@ -14,6 +14,7 @@
             <toc-element topic="Exceções.md"/>
             <toc-element topic="Exportaçã.md"/>
             <toc-element topic="Consulta.md"/>
+
         </toc-element>
         <toc-element toc-title="Cronotacógrafo">
             <toc-element topic="triagem.md"/>

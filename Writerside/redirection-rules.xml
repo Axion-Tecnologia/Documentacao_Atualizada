@@ -383,4 +383,12 @@
         <description>Created after removal of "Controle de Acesso" from Axion</description>
         <accepts>Controle-de-Acesso.html</accepts>
     </rule>
+    <rule id="3e99e09c">
+        <description>Created after removal of "validar" from Axion</description>
+        <accepts>validar.html</accepts>
+    </rule>
+    <rule id="1a78fdd5">
+        <description>Created after removal of "validar" from Axion</description>
+        <accepts>validar.html</accepts>
+    </rule>
 </rules>

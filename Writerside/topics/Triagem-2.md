@@ -5,6 +5,7 @@ O módulo de **Triagem de Infração** permite a análise e o processamento de i
 #### **Componentes Principais:**
 
 1. **Filtro de Pesquisa:**
+2. 
     - **Data da Passagem:** Permite ao usuário selecionar um intervalo de datas para filtrar as passagens a serem triadas.
     - **Mais Filtros:**
         - **Grupo de Equipamentos:** Filtra as passagens por grupo de equipamentos.
